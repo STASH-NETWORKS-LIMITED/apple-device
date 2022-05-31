@@ -1,0 +1,637 @@
+{
+  "iPhone14,6": {
+    "model": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "image": "iPhone/iPhone14,6.png"
+  },
+  "iPhone14,5": {
+    "model": "iPhone14,5",
+    "name": "iPhone 13",
+    "image": "iPhone/iPhone14,5.png"
+  },
+  "iPhone14,4": {
+    "model": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "image": "iPhone/iPhone14,4.png"
+  },
+  "iPhone14,3": {
+    "model": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "image": "iPhone/iPhone14,3.png"
+  },
+  "iPhone14,2": {
+    "model": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "image": "iPhone/iPhone14,2.png"
+  },
+  "iPhone13,3": {
+    "model": "iPhone13,3",
+    "name": "iPhone 12 Pro",
+    "image": "iPhone/iPhone13,3.png"
+  },
+  "iPhone13,4": {
+    "model": "iPhone13,4",
+    "name": "iPhone 12 Pro Max",
+    "image": "iPhone/iPhone13,4.png"
+  },
+  "iPhone13,1": {
+    "model": "iPhone13,1",
+    "name": "iPhone 12 mini",
+    "image": "iPhone/iPhone13,1.png"
+  },
+  "iPhone13,2": {
+    "model": "iPhone13,2",
+    "name": "iPhone 12",
+    "image": "iPhone/iPhone13,2.png"
+  },
+  "iPhone12,8": {
+    "model": "iPhone12,8",
+    "name": "iPhone SE (2020)",
+    "image": "iPhone/iPhone12,8.png"
+  },
+  "iPhone12,3": {
+    "model": "iPhone12,3",
+    "name": "iPhone 11 Pro",
+    "image": "iPhone/iPhone12,3.png"
+  },
+  "iPhone12,1": {
+    "model": "iPhone12,1",
+    "name": "iPhone 11",
+    "image": "iPhone/iPhone12,1.png"
+  },
+  "iPhone12,5": {
+    "model": "iPhone12,5",
+    "name": "iPhone 11 Pro Max",
+    "image": "iPhone/iPhone12,5.png"
+  },
+  "iPhone11,8": {
+    "model": "iPhone11,8",
+    "name": "iPhone XR",
+    "image": "iPhone/iPhone11,8.png"
+  },
+  "iPhone11,4": {
+    "model": "iPhone11,4",
+    "name": "iPhone XS Max (China)",
+    "image": "iPhone/iPhone11,4.png"
+  },
+  "iPhone11,2": {
+    "model": "iPhone11,2",
+    "name": "iPhone XS",
+    "image": "iPhone/iPhone11,2.png"
+  },
+  "iPhone11,6": {
+    "model": "iPhone11,6",
+    "name": "iPhone XS Max",
+    "image": "iPhone/iPhone11,6.png"
+  },
+  "iPhone10,6": {
+    "model": "iPhone10,6",
+    "name": "iPhone X (GSM)",
+    "image": "iPhone/iPhone10,6.png"
+  },
+  "iPhone10,3": {
+    "model": "iPhone10,3",
+    "name": "iPhone X (Global)",
+    "image": "iPhone/iPhone10,3.png"
+  },
+  "iPhone10,2": {
+    "model": "iPhone10,2",
+    "name": "iPhone 8 Plus (Global)",
+    "image": "iPhone/iPhone10,2.png"
+  },
+  "iPhone10,5": {
+    "model": "iPhone10,5",
+    "name": "iPhone 8 Plus (GSM)",
+    "image": "iPhone/iPhone10,5.png"
+  },
+  "iPhone10,4": {
+    "model": "iPhone10,4",
+    "name": "iPhone 8 (GSM)",
+    "image": "iPhone/iPhone10,4.png"
+  },
+  "iPhone10,1": {
+    "model": "iPhone10,1",
+    "name": "iPhone 8 (Global)",
+    "image": "iPhone/iPhone10,1.png"
+  },
+  "iPhone9,4": {
+    "model": "iPhone9,4",
+    "name": "iPhone 7 Plus (GSM)",
+    "image": "iPhone/iPhone9,4.png"
+  },
+  "iPhone9,3": {
+    "model": "iPhone9,3",
+    "name": "iPhone 7 (GSM)",
+    "image": "iPhone/iPhone9,3.png"
+  },
+  "iPhone9,2": {
+    "model": "iPhone9,2",
+    "name": "iPhone 7 Plus (Global)",
+    "image": "iPhone/iPhone9,2.png"
+  },
+  "iPhone9,1": {
+    "model": "iPhone9,1",
+    "name": "iPhone 7 (Global)",
+    "image": "iPhone/iPhone9,1.png"
+  },
+  "iPhone8,4": {
+    "model": "iPhone8,4",
+    "name": "iPhone SE",
+    "image": "iPhone/iPhone8,4.png"
+  },
+  "iPhone8,2": {
+    "model": "iPhone8,2",
+    "name": "iPhone 6s+",
+    "image": "iPhone/iPhone8,2.png"
+  },
+  "iPhone8,1": {
+    "model": "iPhone8,1",
+    "name": "iPhone 6s",
+    "image": "iPhone/iPhone8,1.png"
+  },
+  "iPhone7,2": {
+    "model": "iPhone7,2",
+    "name": "iPhone 6",
+    "image": "iPhone/iPhone7,2.png"
+  },
+  "iPhone7,1": {
+    "model": "iPhone7,1",
+    "name": "iPhone 6+",
+    "image": "iPhone/iPhone7,1.png"
+  },
+  "iPhone6,1": {
+    "model": "iPhone6,1",
+    "name": "iPhone 5s (GSM)",
+    "image": "iPhone/iPhone6,1.png"
+  },
+  "iPhone5,4": {
+    "model": "iPhone5,4",
+    "name": "iPhone 5c (Global)",
+    "image": "iPhone/iPhone5,4.png"
+  },
+  "iPhone5,3": {
+    "model": "iPhone5,3",
+    "name": "iPhone 5c (GSM)",
+    "image": "iPhone/iPhone5,3.png"
+  },
+  "iPhone6,2": {
+    "model": "iPhone6,2",
+    "name": "iPhone 5s (Global)",
+    "image": "iPhone/iPhone6,2.png"
+  },
+  "iPhone5,2": {
+    "model": "iPhone5,2",
+    "name": "iPhone 5 (Global)",
+    "image": "iPhone/iPhone5,2.png"
+  },
+  "iPhone5,1": {
+    "model": "iPhone5,1",
+    "name": "iPhone 5 (GSM)",
+    "image": "iPhone/iPhone5,1.png"
+  },
+  "iPhone3,2": {
+    "model": "iPhone3,2",
+    "name": "iPhone 4 (GSM / 2012)",
+    "image": "iPhone/iPhone3,2.png"
+  },
+  "iPhone4,1": {
+    "model": "iPhone4,1",
+    "name": "iPhone 4[S]",
+    "image": "iPhone/iPhone4,1.png"
+  },
+  "iPhone3,3": {
+    "model": "iPhone3,3",
+    "name": "iPhone 4 (CDMA)",
+    "image": "iPhone/iPhone3,3.png"
+  },
+  "iPhone3,1": {
+    "model": "iPhone3,1",
+    "name": "iPhone 4 (GSM)",
+    "image": "iPhone/iPhone3,1.png"
+  },
+  "iPhone2,1": {
+    "model": "iPhone2,1",
+    "name": "iPhone 3G[S]",
+    "image": "iPhone/iPhone2,1.png"
+  },
+  "iPhone1,2": {
+    "model": "iPhone1,2",
+    "name": "iPhone 3G",
+    "image": "iPhone/iPhone1,2.png"
+  },
+  "iPhone1,1": {
+    "model": "iPhone1,1",
+    "name": "iPhone 2G",
+    "image": "iPhone/iPhone1,1.png"
+  },
+  "iPad13,16": {
+    "model": "iPad13,16",
+    "name": "iPad Air 5 (WiFi)",
+    "image": "iPad/iPad13,16.png"
+  },
+  "iPad13,17": {
+    "model": "iPad13,17",
+    "name": "iPad Air 5 (Cellular)",
+    "image": "iPad/iPad13,17.png"
+  },
+  "iPad14,2": {
+    "model": "iPad14,2",
+    "name": "iPad Mini 6 (Cellular)",
+    "image": "iPad/iPad14,2.png"
+  },
+  "iPad14,1": {
+    "model": "iPad14,1",
+    "name": "iPad Mini 6 (WiFi)",
+    "image": "iPad/iPad14,1.png"
+  },
+  "iPad12,2": {
+    "model": "iPad12,2",
+    "name": "iPad 9 (Cellular)",
+    "image": "iPad/iPad12,2.png"
+  },
+  "iPad12,1": {
+    "model": "iPad12,1",
+    "name": "iPad 9 (WiFi)",
+    "image": "iPad/iPad12,1.png"
+  },
+  "iPad13,6": {
+    "model": "iPad13,6",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,6.png"
+  },
+  "iPad13,7": {
+    "model": "iPad13,7",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,7.png"
+  },
+  "iPad13,10": {
+    "model": "iPad13,10",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,10.png"
+  },
+  "iPad13,8": {
+    "model": "iPad13,8",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,8.png"
+  },
+  "iPad13,11": {
+    "model": "iPad13,11",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,11.png"
+  },
+  "iPad13,9": {
+    "model": "iPad13,9",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,9.png"
+  },
+  "iPad13,5": {
+    "model": "iPad13,5",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,5.png"
+  },
+  "iPad13,4": {
+    "model": "iPad13,4",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,4.png"
+  },
+  "iPad13,2": {
+    "model": "iPad13,2",
+    "name": "iPad Air 4 (Cellular)",
+    "image": "iPad/iPad13,2.png"
+  },
+  "iPad11,7": {
+    "model": "iPad11,7",
+    "name": "iPad 8 (Cellular)",
+    "image": "iPad/iPad11,7.png"
+  },
+  "iPad11,6": {
+    "model": "iPad11,6",
+    "name": "iPad 8 (WiFi)",
+    "image": "iPad/iPad11,6.png"
+  },
+  "iPad13,1": {
+    "model": "iPad13,1",
+    "name": "iPad Air 4 (WiFi)",
+    "image": "iPad/iPad13,1.png"
+  },
+  "iPad8,10": {
+    "model": "iPad8,10",
+    "name": "iPad Pro 4 (11-inch, Cellular)",
+    "image": "iPad/iPad8,10.png"
+  },
+  "iPad8,11": {
+    "model": "iPad8,11",
+    "name": "iPad Pro 4 (12.9-inch, WiFi)",
+    "image": "iPad/iPad8,11.png"
+  },
+  "iPad8,9": {
+    "model": "iPad8,9",
+    "name": "iPad Pro 4 (11-inch, WiFi)",
+    "image": "iPad/iPad8,9.png"
+  },
+  "iPad8,12": {
+    "model": "iPad8,12",
+    "name": "iPad Pro 4 (12.9-inch, Cellular)",
+    "image": "iPad/iPad8,12.png"
+  },
+  "iPad7,11": {
+    "model": "iPad7,11",
+    "name": "iPad 7 (WiFi)",
+    "image": "iPad/iPad7,11.png"
+  },
+  "iPad7,12": {
+    "model": "iPad7,12",
+    "name": "iPad 7 (Cellular)",
+    "image": "iPad/iPad7,12.png"
+  },
+  "iPad11,4": {
+    "model": "iPad11,4",
+    "name": "iPad Air 3 (Cellular)",
+    "image": "iPad/iPad11,4.png"
+  },
+  "iPad11,3": {
+    "model": "iPad11,3",
+    "name": "iPad Air 3 (WiFi)",
+    "image": "iPad/iPad11,3.png"
+  },
+  "iPad11,2": {
+    "model": "iPad11,2",
+    "name": "iPad Mini 5 (Cellular)",
+    "image": "iPad/iPad11,2.png"
+  },
+  "iPad11,1": {
+    "model": "iPad11,1",
+    "name": "iPad Mini 5 (WiFi)",
+    "image": "iPad/iPad11,1.png"
+  },
+  "iPad8,8": {
+    "model": "iPad8,8",
+    "name": "iPad Pro 3 (12.9-inch, Cellular, 1TB Model)",
+    "image": "iPad/iPad8,8.png"
+  },
+  "iPad8,7": {
+    "model": "iPad8,7",
+    "name": "iPad Pro 3 (12.9-inch, Cellular)",
+    "image": "iPad/iPad8,7.png"
+  },
+  "iPad8,5": {
+    "model": "iPad8,5",
+    "name": "iPad Pro 3 (12.9-inch, WiFi)",
+    "image": "iPad/iPad8,5.png"
+  },
+  "iPad8,4": {
+    "model": "iPad8,4",
+    "name": "iPad Pro 3 (11-inch, Cellular, 1TB Model)",
+    "image": "iPad/iPad8,4.png"
+  },
+  "iPad8,2": {
+    "model": "iPad8,2",
+    "name": "iPad Pro 3 (11-inch, WiFi, 1TB Model)",
+    "image": "iPad/iPad8,2.png"
+  },
+  "iPad8,1": {
+    "model": "iPad8,1",
+    "name": "iPad Pro 3 (11-inch, WiFi)",
+    "image": "iPad/iPad8,1.png"
+  },
+  "iPad8,3": {
+    "model": "iPad8,3",
+    "name": "iPad Pro 3 (11-inch, Cellular)",
+    "image": "iPad/iPad8,3.png"
+  },
+  "iPad8,6": {
+    "model": "iPad8,6",
+    "name": "iPad Pro 3 (12.9-inch, WiFi, 1TB Model)",
+    "image": "iPad/iPad8,6.png"
+  },
+  "iPad7,6": {
+    "model": "iPad7,6",
+    "name": "iPad 6 (Cellular)",
+    "image": "iPad/iPad7,6.png"
+  },
+  "iPad7,5": {
+    "model": "iPad7,5",
+    "name": "iPad 6 (WiFi)",
+    "image": "iPad/iPad7,5.png"
+  },
+  "iPad7,1": {
+    "model": "iPad7,1",
+    "name": "iPad Pro 2 (12.9-inch, WiFi)",
+    "image": "iPad/iPad7,1.png"
+  },
+  "iPad7,3": {
+    "model": "iPad7,3",
+    "name": "iPad Pro (10.5-inch, WiFi)",
+    "image": "iPad/iPad7,3.png"
+  },
+  "iPad7,4": {
+    "model": "iPad7,4",
+    "name": "iPad Pro (10.5-inch, Cellular)",
+    "image": "iPad/iPad7,4.png"
+  },
+  "iPad7,2": {
+    "model": "iPad7,2",
+    "name": "iPad Pro 2 (12.9-inch, Cellular)",
+    "image": "iPad/iPad7,2.png"
+  },
+  "iPad6,12": {
+    "model": "iPad6,12",
+    "name": "iPad 5 (Cellular)",
+    "image": "iPad/iPad6,12.png"
+  },
+  "iPad6,11": {
+    "model": "iPad6,11",
+    "name": "iPad 5 (WiFi)",
+    "image": "iPad/iPad6,11.png"
+  },
+  "iPad6,3": {
+    "model": "iPad6,3",
+    "name": "iPad Pro 9.7-inch (WiFi)",
+    "image": "iPad/iPad6,3.png"
+  },
+  "iPad6,4": {
+    "model": "iPad6,4",
+    "name": "iPad Pro 9.7-inch (Cellular)",
+    "image": "iPad/iPad6,4.png"
+  },
+  "iPad6,8": {
+    "model": "iPad6,8",
+    "name": "iPad Pro 12.9-inch (Cellular)",
+    "image": "iPad/iPad6,8.png"
+  },
+  "iPad6,7": {
+    "model": "iPad6,7",
+    "name": "iPad Pro 12.9-inch (WiFi)",
+    "image": "iPad/iPad6,7.png"
+  },
+  "iPad5,2": {
+    "model": "iPad5,2",
+    "name": "iPad Mini 4 (Cellular)",
+    "image": "iPad/iPad5,2.png"
+  },
+  "iPad5,1": {
+    "model": "iPad5,1",
+    "name": "iPad Mini 4 (WiFi)",
+    "image": "iPad/iPad5,1.png"
+  },
+  "iPad5,4": {
+    "model": "iPad5,4",
+    "name": "iPad Air 2 (Cellular)",
+    "image": "iPad/iPad5,4.png"
+  },
+  "iPad5,3": {
+    "model": "iPad5,3",
+    "name": "iPad Air 2 (WiFi)",
+    "image": "iPad/iPad5,3.png"
+  },
+  "iPad4,9": {
+    "model": "iPad4,9",
+    "name": "iPad Mini 3 (China)",
+    "image": "iPad/iPad4,9.png"
+  },
+  "iPad4,8": {
+    "model": "iPad4,8",
+    "name": "iPad Mini 3 (Cellular)",
+    "image": "iPad/iPad4,8.png"
+  },
+  "iPad4,7": {
+    "model": "iPad4,7",
+    "name": "iPad Mini 3 (WiFi)",
+    "image": "iPad/iPad4,7.png"
+  },
+  "iPad4,6": {
+    "model": "iPad4,6",
+    "name": "iPad Mini 2 (China)",
+    "image": "iPad/iPad4,6.png"
+  },
+  "iPad4,3": {
+    "model": "iPad4,3",
+    "name": "iPad Air (China)",
+    "image": "iPad/iPad4,3.png"
+  },
+  "iPad4,2": {
+    "model": "iPad4,2",
+    "name": "iPad Air (Cellular)",
+    "image": "iPad/iPad4,2.png"
+  },
+  "iPad4,1": {
+    "model": "iPad4,1",
+    "name": "iPad Air (WiFi)",
+    "image": "iPad/iPad4,1.png"
+  },
+  "iPad4,5": {
+    "model": "iPad4,5",
+    "name": "iPad Mini 2 (Cellular)",
+    "image": "iPad/iPad4,5.png"
+  },
+  "iPad4,4": {
+    "model": "iPad4,4",
+    "name": "iPad Mini 2 (WiFi)",
+    "image": "iPad/iPad4,4.png"
+  },
+  "iPad3,6": {
+    "model": "iPad3,6",
+    "name": "iPad 4 (Global)",
+    "image": "iPad/iPad3,6.png"
+  },
+  "iPad3,5": {
+    "model": "iPad3,5",
+    "name": "iPad 4 (GSM)",
+    "image": "iPad/iPad3,5.png"
+  },
+  "iPad3,4": {
+    "model": "iPad3,4",
+    "name": "iPad 4 (WiFi)",
+    "image": "iPad/iPad3,4.png"
+  },
+  "iPad2,7": {
+    "model": "iPad2,7",
+    "name": "iPad Mini (Global)",
+    "image": "iPad/iPad2,7.png"
+  },
+  "iPad2,6": {
+    "model": "iPad2,6",
+    "name": "iPad Mini (GSM)",
+    "image": "iPad/iPad2,6.png"
+  },
+  "iPad2,5": {
+    "model": "iPad2,5",
+    "name": "iPad Mini (WiFi)",
+    "image": "iPad/iPad2,5.png"
+  },
+  "iPad3,3": {
+    "model": "iPad3,3",
+    "name": "iPad 3 (GSM)",
+    "image": "iPad/iPad3,3.png"
+  },
+  "iPad3,2": {
+    "model": "iPad3,2",
+    "name": "iPad 3 (CDMA)",
+    "image": "iPad/iPad3,2.png"
+  },
+  "iPad3,1": {
+    "model": "iPad3,1",
+    "name": "iPad 3 (WiFi)",
+    "image": "iPad/iPad3,1.png"
+  },
+  "iPad2,4": {
+    "model": "iPad2,4",
+    "name": "iPad 2 (Mid 2012)",
+    "image": "iPad/iPad2,4.png"
+  },
+  "iPad2,3": {
+    "model": "iPad2,3",
+    "name": "iPad 2 (CDMA)",
+    "image": "iPad/iPad2,3.png"
+  },
+  "iPad2,2": {
+    "model": "iPad2,2",
+    "name": "iPad 2 (GSM)",
+    "image": "iPad/iPad2,2.png"
+  },
+  "iPad2,1": {
+    "model": "iPad2,1",
+    "name": "iPad 2 (WiFi)",
+    "image": "iPad/iPad2,1.png"
+  },
+  "iPad1,1": {
+    "model": "iPad1,1",
+    "name": "iPad 1",
+    "image": "iPad/iPad1,1.png"
+  },
+  "iPod9,1": {
+    "model": "iPod9,1",
+    "name": "iPod touch 7",
+    "image": "iPod/iPod9,1.png"
+  },
+  "iPod7,1": {
+    "model": "iPod7,1",
+    "name": "iPod touch 6",
+    "image": "iPod/iPod7,1.png"
+  },
+  "iPod5,1": {
+    "model": "iPod5,1",
+    "name": "iPod touch 5",
+    "image": "iPod/iPod5,1.png"
+  },
+  "iPod4,1": {
+    "model": "iPod4,1",
+    "name": "iPod touch 4",
+    "image": "iPod/iPod4,1.png"
+  },
+  "iPod3,1": {
+    "model": "iPod3,1",
+    "name": "iPod touch 3",
+    "image": "iPod/iPod3,1.png"
+  },
+  "iPod2,1": {
+    "model": "iPod2,1",
+    "name": "iPod touch 2G",
+    "image": "iPod/iPod2,1.png"
+  },
+  "iPod1,1": {
+    "model": "iPod1,1",
+    "name": "iPod touch 1G",
+    "image": "iPod/iPod1,1.png"
+  }
+}
