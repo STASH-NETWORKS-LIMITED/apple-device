@@ -1,4 +1,24 @@
 {
+  "iPhone15,3": {
+    "model": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "image": "iPhone/iPhone15,3.png"
+  },
+  "iPhone15,2": {
+    "model": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "image": "iPhone/iPhone15,2.png"
+  },
+  "iPhone14,8": {
+    "model": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "image": "iPhone/iPhone14,8.png"
+  },
+  "iPhone14,7": {
+    "model": "iPhone14,7",
+    "name": "iPhone 14",
+    "image": "iPhone/iPhone14,7.png"
+  },
   "iPhone14,6": {
     "model": "iPhone14,6",
     "name": "iPhone SE (3rd generation)",
@@ -633,5 +653,60 @@
     "model": "iPod1,1",
     "name": "iPod touch 1G",
     "image": "iPod/iPod1,1.png"
+  },
+  "Mac14,7": {
+    "model": "Mac14,7",
+    "name": "MacBook Pro (13-inch, M2, 2022)",
+    "image": "Mac/Mac14,7.png"
+  },
+  "Mac14,2": {
+    "model": "Mac14,2",
+    "name": "MacBook Air (M2, 2022)",
+    "image": "Mac/Mac14,2.png"
+  },
+  "Mac13,2": {
+    "model": "Mac13,2",
+    "name": "Mac Studio (M1 Ultra)",
+    "image": "Mac/Mac13,2.png"
+  },
+  "Mac13,1": {
+    "model": "Mac13,1",
+    "name": "Mac Studio (M1 Max)",
+    "image": "Mac/Mac13,1.png"
+  },
+  "MacBookPro18,4": {
+    "model": "MacBookPro18,4",
+    "name": "MacBook Pro (M1 Max, 14-inch, 2021)",
+    "image": "Mac/MacBookPro18,4.png"
+  },
+  "MacBookPro18,1": {
+    "model": "MacBookPro18,1",
+    "name": "MacBook Pro (M1 Pro, 16-inch, 2021)",
+    "image": "Mac/MacBookPro18,1.png"
+  },
+  "MacBookPro18,3": {
+    "model": "MacBookPro18,3",
+    "name": "MacBook Pro (M1 Pro, 14-inch, 2021)",
+    "image": "Mac/MacBookPro18,3.png"
+  },
+  "MacBookPro18,2": {
+    "model": "MacBookPro18,2",
+    "name": "MacBook Pro (M1 Max, 16-inch, 2021)",
+    "image": "Mac/MacBookPro18,2.png"
+  },
+  "Macmini9,1": {
+    "model": "Macmini9,1",
+    "name": "Mac Mini (M1, Late 2020)",
+    "image": "Mac/Macmini9,1.png"
+  },
+  "MacBookAir10,1": {
+    "model": "MacBookAir10,1",
+    "name": "MacBook Air (M1, Late 2020)",
+    "image": "Mac/MacBookAir10,1.png"
+  },
+  "MacBookPro17,1": {
+    "model": "MacBookPro17,1",
+    "name": "MacBook Pro (M1, Late 2020)",
+    "image": "Mac/MacBookPro17,1.png"
   }
 }
