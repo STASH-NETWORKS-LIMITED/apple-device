@@ -244,6 +244,36 @@
     "name": "iPhone 2G",
     "image": "iPhone/iPhone1,1.png"
   },
+  "iPad14,6": {
+    "model": "iPad14,6",
+    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "image": "iPad/iPad14,6.png"
+  },
+  "iPad14,5": {
+    "model": "iPad14,5",
+    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "image": "iPad/iPad14,5.png"
+  },
+  "iPad14,4": {
+    "model": "iPad14,4",
+    "name": "iPad Pro (11-inch) (4th generation)",
+    "image": "iPad/iPad14,4.png"
+  },
+  "iPad14,3": {
+    "model": "iPad14,3",
+    "name": "iPad Pro (11-inch) (4th generation)",
+    "image": "iPad/iPad14,3.png"
+  },
+  "iPad13,19": {
+    "model": "iPad13,19",
+    "name": "iPad (10th generation)",
+    "image": "iPad/iPad13,19.png"
+  },
+  "iPad13,18": {
+    "model": "iPad13,18",
+    "name": "iPad (10th generation)",
+    "image": "iPad/iPad13,18.png"
+  },
   "iPad13,16": {
     "model": "iPad13,16",
     "name": "iPad Air 5 (WiFi)",
@@ -256,12 +286,12 @@
   },
   "iPad14,2": {
     "model": "iPad14,2",
-    "name": "iPad Mini 6 (Cellular)",
+    "name": "iPad mini 6 (Cellular)",
     "image": "iPad/iPad14,2.png"
   },
   "iPad14,1": {
     "model": "iPad14,1",
-    "name": "iPad Mini 6 (WiFi)",
+    "name": "iPad mini 6 (WiFi)",
     "image": "iPad/iPad14,1.png"
   },
   "iPad12,2": {
@@ -376,12 +406,12 @@
   },
   "iPad11,2": {
     "model": "iPad11,2",
-    "name": "iPad Mini 5 (Cellular)",
+    "name": "iPad mini 5 (Cellular)",
     "image": "iPad/iPad11,2.png"
   },
   "iPad11,1": {
     "model": "iPad11,1",
-    "name": "iPad Mini 5 (WiFi)",
+    "name": "iPad mini 5 (WiFi)",
     "image": "iPad/iPad11,1.png"
   },
   "iPad8,8": {
@@ -486,12 +516,12 @@
   },
   "iPad5,2": {
     "model": "iPad5,2",
-    "name": "iPad Mini 4 (Cellular)",
+    "name": "iPad mini 4 (Cellular)",
     "image": "iPad/iPad5,2.png"
   },
   "iPad5,1": {
     "model": "iPad5,1",
-    "name": "iPad Mini 4 (WiFi)",
+    "name": "iPad mini 4 (WiFi)",
     "image": "iPad/iPad5,1.png"
   },
   "iPad5,4": {
@@ -506,22 +536,22 @@
   },
   "iPad4,9": {
     "model": "iPad4,9",
-    "name": "iPad Mini 3 (China)",
+    "name": "iPad mini 3 (China)",
     "image": "iPad/iPad4,9.png"
   },
   "iPad4,8": {
     "model": "iPad4,8",
-    "name": "iPad Mini 3 (Cellular)",
+    "name": "iPad mini 3 (Cellular)",
     "image": "iPad/iPad4,8.png"
   },
   "iPad4,7": {
     "model": "iPad4,7",
-    "name": "iPad Mini 3 (WiFi)",
+    "name": "iPad mini 3 (WiFi)",
     "image": "iPad/iPad4,7.png"
   },
   "iPad4,6": {
     "model": "iPad4,6",
-    "name": "iPad Mini 2 (China)",
+    "name": "iPad mini 2 (China)",
     "image": "iPad/iPad4,6.png"
   },
   "iPad4,3": {
@@ -541,12 +571,12 @@
   },
   "iPad4,5": {
     "model": "iPad4,5",
-    "name": "iPad Mini 2 (Cellular)",
+    "name": "iPad mini 2 (Cellular)",
     "image": "iPad/iPad4,5.png"
   },
   "iPad4,4": {
     "model": "iPad4,4",
-    "name": "iPad Mini 2 (WiFi)",
+    "name": "iPad mini 2 (WiFi)",
     "image": "iPad/iPad4,4.png"
   },
   "iPad3,6": {
@@ -566,17 +596,17 @@
   },
   "iPad2,7": {
     "model": "iPad2,7",
-    "name": "iPad Mini (Global)",
+    "name": "iPad mini (Global)",
     "image": "iPad/iPad2,7.png"
   },
   "iPad2,6": {
     "model": "iPad2,6",
-    "name": "iPad Mini (GSM)",
+    "name": "iPad mini (GSM)",
     "image": "iPad/iPad2,6.png"
   },
   "iPad2,5": {
     "model": "iPad2,5",
-    "name": "iPad Mini (WiFi)",
+    "name": "iPad mini (WiFi)",
     "image": "iPad/iPad2,5.png"
   },
   "iPad3,3": {
@@ -654,6 +684,56 @@
     "name": "iPod touch 1G",
     "image": "iPod/iPod1,1.png"
   },
+  "Mac14,8": {
+    "model": "Mac14,8",
+    "name": "Mac Pro (2023)",
+    "image": "Mac/Mac14,8.png"
+  },
+  "Mac14,14": {
+    "model": "Mac14,14",
+    "name": "Mac Studio (M2 Ultra, 2023)",
+    "image": "Mac/Mac14,14.png"
+  },
+  "Mac14,13": {
+    "model": "Mac14,13",
+    "name": "Mac Studio (M2 Max, 2023)",
+    "image": "Mac/Mac14,13.png"
+  },
+  "Mac14,15": {
+    "model": "Mac14,15",
+    "name": "MacBook Air (15-inch, M2, 2023)",
+    "image": "Mac/Mac14,15.png"
+  },
+  "Mac14,10": {
+    "model": "Mac14,10",
+    "name": "MacBook Pro (M2 Pro, 16-inch, 2023)",
+    "image": "Mac/Mac14,10.png"
+  },
+  "Mac14,12": {
+    "model": "Mac14,12",
+    "name": "Mac mini (M2 Pro, 2023)",
+    "image": "Mac/Mac14,12.png"
+  },
+  "Mac14,9": {
+    "model": "Mac14,9",
+    "name": "MacBook Pro (M2 Pro, 14-inch, 2023)",
+    "image": "Mac/Mac14,9.png"
+  },
+  "Mac14,6": {
+    "model": "Mac14,6",
+    "name": "MacBook Pro (M2 Max, 16-inch, 2023)",
+    "image": "Mac/Mac14,6.png"
+  },
+  "Mac14,5": {
+    "model": "Mac14,5",
+    "name": "MacBook Pro (M2 Max, 14-inch, 2023)",
+    "image": "Mac/Mac14,5.png"
+  },
+  "Mac14,3": {
+    "model": "Mac14,3",
+    "name": "Mac mini (M2, 2023)",
+    "image": "Mac/Mac14,3.png"
+  },
   "Mac14,7": {
     "model": "Mac14,7",
     "name": "MacBook Pro (13-inch, M2, 2022)",
@@ -696,7 +776,7 @@
   },
   "Macmini9,1": {
     "model": "Macmini9,1",
-    "name": "Mac Mini (M1, Late 2020)",
+    "name": "Mac mini (M1, Late 2020)",
     "image": "Mac/Macmini9,1.png"
   },
   "MacBookAir10,1": {
@@ -708,5 +788,30 @@
     "model": "MacBookPro17,1",
     "name": "MacBook Pro (M1, Late 2020)",
     "image": "Mac/MacBookPro17,1.png"
+  },
+  "AppleTV6,2": {
+    "model": "AppleTV6,2",
+    "name": "Apple TV 4K",
+    "image": "AppleTV/AppleTV6,2.png"
+  },
+  "AppleTV5,3": {
+    "model": "AppleTV5,3",
+    "name": "Apple TV 4 (2015)",
+    "image": "AppleTV/AppleTV5,3.png"
+  },
+  "AppleTV3,2": {
+    "model": "AppleTV3,2",
+    "name": "Apple TV 3 (2013)",
+    "image": "AppleTV/AppleTV3,2.png"
+  },
+  "AppleTV3,1": {
+    "model": "AppleTV3,1",
+    "name": "Apple TV 3",
+    "image": "AppleTV/AppleTV3,1.png"
+  },
+  "AppleTV2,1": {
+    "model": "AppleTV2,1",
+    "name": "Apple TV 2G",
+    "image": "AppleTV/AppleTV2,1.png"
   }
 }
