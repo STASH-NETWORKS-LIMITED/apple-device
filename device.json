@@ -789,6 +789,16 @@
     "name": "MacBook Pro (M1, Late 2020)",
     "image": "Mac/MacBookPro17,1.png"
   },
+  "AppleTV14,1": {
+    "model": "AppleTV14,1",
+    "name": "Apple TV 4K (3rd generation)",
+    "image": "AppleTV/AppleTV14,1.png"
+  },
+  "AppleTV11,1": {
+    "model": "AppleTV11,1",
+    "name": "Apple TV 4K (2nd generation)",
+    "image": "AppleTV/AppleTV11,1.png"
+  },
   "AppleTV6,2": {
     "model": "AppleTV6,2",
     "name": "Apple TV 4K",
