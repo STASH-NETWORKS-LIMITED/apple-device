@@ -1,4 +1,24 @@
 {
+  "iPhone16,2": {
+    "model": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "image": "iPhone/iPhone16,2.png"
+  },
+  "iPhone16,1": {
+    "model": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "image": "iPhone/iPhone16,1.png"
+  },
+  "iPhone15,5": {
+    "model": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "image": "iPhone/iPhone15,5.png"
+  },
+  "iPhone15,4": {
+    "model": "iPhone15,4",
+    "name": "iPhone 15",
+    "image": "iPhone/iPhone15,4.png"
+  },
   "iPhone15,3": {
     "model": "iPhone15,3",
     "name": "iPhone 14 Pro Max",
