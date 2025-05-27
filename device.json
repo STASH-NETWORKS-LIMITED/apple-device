@@ -1,78 +1,183 @@
 {
-  "iPhone16,2": {
-    "model": "iPhone16,2",
-    "name": "iPhone 15 Pro Max",
-    "image": "iPhone/iPhone16,2.png"
+  "iPhone1,1": {
+    "model": "iPhone1,1",
+    "name": "iPhone",
+    "image": "iPhone/iPhone1,1.png"
   },
-  "iPhone16,1": {
-    "model": "iPhone16,1",
-    "name": "iPhone 15 Pro",
-    "image": "iPhone/iPhone16,1.png"
+  "iPhone1,2": {
+    "model": "iPhone1,2",
+    "name": "iPhone 3G",
+    "image": "iPhone/iPhone1,2.png"
   },
-  "iPhone15,5": {
-    "model": "iPhone15,5",
-    "name": "iPhone 15 Plus",
-    "image": "iPhone/iPhone15,5.png"
+  "iPhone2,1": {
+    "model": "iPhone2,1",
+    "name": "iPhone 3GS",
+    "image": "iPhone/iPhone2,1.png"
   },
-  "iPhone15,4": {
-    "model": "iPhone15,4",
-    "name": "iPhone 15",
-    "image": "iPhone/iPhone15,4.png"
+  "iPhone3,1": {
+    "model": "iPhone3,1",
+    "name": "iPhone 4",
+    "image": "iPhone/iPhone3,1.png"
   },
-  "iPhone15,3": {
-    "model": "iPhone15,3",
-    "name": "iPhone 14 Pro Max",
-    "image": "iPhone/iPhone15,3.png"
+  "iPhone3,2": {
+    "model": "iPhone3,2",
+    "name": "iPhone 4",
+    "image": "iPhone/iPhone3,2.png"
   },
-  "iPhone15,2": {
-    "model": "iPhone15,2",
-    "name": "iPhone 14 Pro",
-    "image": "iPhone/iPhone15,2.png"
+  "iPhone3,3": {
+    "model": "iPhone3,3",
+    "name": "iPhone 4",
+    "image": "iPhone/iPhone3,3.png"
   },
-  "iPhone14,8": {
-    "model": "iPhone14,8",
-    "name": "iPhone 14 Plus",
-    "image": "iPhone/iPhone14,8.png"
+  "iPhone4,1": {
+    "model": "iPhone4,1",
+    "name": "iPhone 4s",
+    "image": "iPhone/iPhone4,1.png"
   },
-  "iPhone14,7": {
-    "model": "iPhone14,7",
-    "name": "iPhone 14",
-    "image": "iPhone/iPhone14,7.png"
+  "iPhone5,1": {
+    "model": "iPhone5,1",
+    "name": "iPhone 5",
+    "image": "iPhone/iPhone5,1.png"
   },
-  "iPhone14,6": {
-    "model": "iPhone14,6",
-    "name": "iPhone SE (3rd generation)",
-    "image": "iPhone/iPhone14,6.png"
+  "iPhone5,2": {
+    "model": "iPhone5,2",
+    "name": "iPhone 5",
+    "image": "iPhone/iPhone5,2.png"
   },
-  "iPhone14,5": {
-    "model": "iPhone14,5",
-    "name": "iPhone 13",
-    "image": "iPhone/iPhone14,5.png"
+  "iPhone5,3": {
+    "model": "iPhone5,3",
+    "name": "iPhone 5c",
+    "image": "iPhone/iPhone5,3.png"
   },
-  "iPhone14,4": {
-    "model": "iPhone14,4",
-    "name": "iPhone 13 mini",
-    "image": "iPhone/iPhone14,4.png"
+  "iPhone5,4": {
+    "model": "iPhone5,4",
+    "name": "iPhone 5c",
+    "image": "iPhone/iPhone5,4.png"
   },
-  "iPhone14,3": {
-    "model": "iPhone14,3",
-    "name": "iPhone 13 Pro Max",
-    "image": "iPhone/iPhone14,3.png"
+  "iPhone6,1": {
+    "model": "iPhone6,1",
+    "name": "iPhone 5s",
+    "image": "iPhone/iPhone6,1.png"
   },
-  "iPhone14,2": {
-    "model": "iPhone14,2",
-    "name": "iPhone 13 Pro",
-    "image": "iPhone/iPhone14,2.png"
+  "iPhone6,2": {
+    "model": "iPhone6,2",
+    "name": "iPhone 5s",
+    "image": "iPhone/iPhone6,2.png"
   },
-  "iPhone13,3": {
-    "model": "iPhone13,3",
-    "name": "iPhone 12 Pro",
-    "image": "iPhone/iPhone13,3.png"
+  "iPhone7,1": {
+    "model": "iPhone7,1",
+    "name": "iPhone 6 Plus",
+    "image": "iPhone/iPhone7,1.png"
   },
-  "iPhone13,4": {
-    "model": "iPhone13,4",
-    "name": "iPhone 12 Pro Max",
-    "image": "iPhone/iPhone13,4.png"
+  "iPhone7,2": {
+    "model": "iPhone7,2",
+    "name": "iPhone 6",
+    "image": "iPhone/iPhone7,2.png"
+  },
+  "iPhone8,1": {
+    "model": "iPhone8,1",
+    "name": "iPhone 6s",
+    "image": "iPhone/iPhone8,1.png"
+  },
+  "iPhone8,2": {
+    "model": "iPhone8,2",
+    "name": "iPhone 6s Plus",
+    "image": "iPhone/iPhone8,2.png"
+  },
+  "iPhone8,4": {
+    "model": "iPhone8,4",
+    "name": "iPhone SE (1st generation)",
+    "image": "iPhone/iPhone8,4.png"
+  },
+  "iPhone9,1": {
+    "model": "iPhone9,1",
+    "name": "iPhone 7",
+    "image": "iPhone/iPhone9,1.png"
+  },
+  "iPhone9,2": {
+    "model": "iPhone9,2",
+    "name": "iPhone 7 Plus",
+    "image": "iPhone/iPhone9,2.png"
+  },
+  "iPhone9,3": {
+    "model": "iPhone9,3",
+    "name": "iPhone 7",
+    "image": "iPhone/iPhone9,3.png"
+  },
+  "iPhone9,4": {
+    "model": "iPhone9,4",
+    "name": "iPhone 7 Plus",
+    "image": "iPhone/iPhone9,4.png"
+  },
+  "iPhone10,1": {
+    "model": "iPhone10,1",
+    "name": "iPhone 8",
+    "image": "iPhone/iPhone10,1.png"
+  },
+  "iPhone10,2": {
+    "model": "iPhone10,2",
+    "name": "iPhone 8 Plus",
+    "image": "iPhone/iPhone10,2.png"
+  },
+  "iPhone10,3": {
+    "model": "iPhone10,3",
+    "name": "iPhone X",
+    "image": "iPhone/iPhone10,3.png"
+  },
+  "iPhone10,4": {
+    "model": "iPhone10,4",
+    "name": "iPhone 8",
+    "image": "iPhone/iPhone10,4.png"
+  },
+  "iPhone10,5": {
+    "model": "iPhone10,5",
+    "name": "iPhone 8 Plus",
+    "image": "iPhone/iPhone10,5.png"
+  },
+  "iPhone10,6": {
+    "model": "iPhone10,6",
+    "name": "iPhone X",
+    "image": "iPhone/iPhone10,6.png"
+  },
+  "iPhone11,2": {
+    "model": "iPhone11,2",
+    "name": "iPhone XS",
+    "image": "iPhone/iPhone11,2.png"
+  },
+  "iPhone11,4": {
+    "model": "iPhone11,4",
+    "name": "iPhone XS Max",
+    "image": "iPhone/iPhone11,4.png"
+  },
+  "iPhone11,6": {
+    "model": "iPhone11,6",
+    "name": "iPhone XS Max",
+    "image": "iPhone/iPhone11,6.png"
+  },
+  "iPhone11,8": {
+    "model": "iPhone11,8",
+    "name": "iPhone XR",
+    "image": "iPhone/iPhone11,8.png"
+  },
+  "iPhone12,1": {
+    "model": "iPhone12,1",
+    "name": "iPhone 11",
+    "image": "iPhone/iPhone12,1.png"
+  },
+  "iPhone12,3": {
+    "model": "iPhone12,3",
+    "name": "iPhone 11 Pro",
+    "image": "iPhone/iPhone12,3.png"
+  },
+  "iPhone12,5": {
+    "model": "iPhone12,5",
+    "name": "iPhone 11 Pro Max",
+    "image": "iPhone/iPhone12,5.png"
+  },
+  "iPhone12,8": {
+    "model": "iPhone12,8",
+    "name": "iPhone SE (2nd generation)",
+    "image": "iPhone/iPhone12,8.png"
   },
   "iPhone13,1": {
     "model": "iPhone13,1",
@@ -84,245 +189,435 @@
     "name": "iPhone 12",
     "image": "iPhone/iPhone13,2.png"
   },
-  "iPhone12,8": {
-    "model": "iPhone12,8",
-    "name": "iPhone SE (2020)",
-    "image": "iPhone/iPhone12,8.png"
+  "iPhone13,3": {
+    "model": "iPhone13,3",
+    "name": "iPhone 12 Pro",
+    "image": "iPhone/iPhone13,3.png"
   },
-  "iPhone12,3": {
-    "model": "iPhone12,3",
-    "name": "iPhone 11 Pro",
-    "image": "iPhone/iPhone12,3.png"
+  "iPhone13,4": {
+    "model": "iPhone13,4",
+    "name": "iPhone 12 Pro Max",
+    "image": "iPhone/iPhone13,4.png"
   },
-  "iPhone12,1": {
-    "model": "iPhone12,1",
-    "name": "iPhone 11",
-    "image": "iPhone/iPhone12,1.png"
+  "iPhone14,2": {
+    "model": "iPhone14,2",
+    "name": "iPhone 13 Pro",
+    "image": "iPhone/iPhone14,2.png"
   },
-  "iPhone12,5": {
-    "model": "iPhone12,5",
-    "name": "iPhone 11 Pro Max",
-    "image": "iPhone/iPhone12,5.png"
+  "iPhone14,3": {
+    "model": "iPhone14,3",
+    "name": "iPhone 13 Pro Max",
+    "image": "iPhone/iPhone14,3.png"
   },
-  "iPhone11,8": {
-    "model": "iPhone11,8",
-    "name": "iPhone XR",
-    "image": "iPhone/iPhone11,8.png"
+  "iPhone14,4": {
+    "model": "iPhone14,4",
+    "name": "iPhone 13 mini",
+    "image": "iPhone/iPhone14,4.png"
   },
-  "iPhone11,4": {
-    "model": "iPhone11,4",
-    "name": "iPhone XS Max (China)",
-    "image": "iPhone/iPhone11,4.png"
+  "iPhone14,5": {
+    "model": "iPhone14,5",
+    "name": "iPhone 13",
+    "image": "iPhone/iPhone14,5.png"
   },
-  "iPhone11,2": {
-    "model": "iPhone11,2",
-    "name": "iPhone XS",
-    "image": "iPhone/iPhone11,2.png"
+  "iPhone14,6": {
+    "model": "iPhone14,6",
+    "name": "iPhone SE (3rd generation)",
+    "image": "iPhone/iPhone14,6.png"
   },
-  "iPhone11,6": {
-    "model": "iPhone11,6",
-    "name": "iPhone XS Max",
-    "image": "iPhone/iPhone11,6.png"
+  "iPhone14,7": {
+    "model": "iPhone14,7",
+    "name": "iPhone 14",
+    "image": "iPhone/iPhone14,7.png"
   },
-  "iPhone10,6": {
-    "model": "iPhone10,6",
-    "name": "iPhone X (GSM)",
-    "image": "iPhone/iPhone10,6.png"
+  "iPhone14,8": {
+    "model": "iPhone14,8",
+    "name": "iPhone 14 Plus",
+    "image": "iPhone/iPhone14,8.png"
   },
-  "iPhone10,3": {
-    "model": "iPhone10,3",
-    "name": "iPhone X (Global)",
-    "image": "iPhone/iPhone10,3.png"
+  "iPhone15,2": {
+    "model": "iPhone15,2",
+    "name": "iPhone 14 Pro",
+    "image": "iPhone/iPhone15,2.png"
   },
-  "iPhone10,2": {
-    "model": "iPhone10,2",
-    "name": "iPhone 8 Plus (Global)",
-    "image": "iPhone/iPhone10,2.png"
+  "iPhone15,3": {
+    "model": "iPhone15,3",
+    "name": "iPhone 14 Pro Max",
+    "image": "iPhone/iPhone15,3.png"
   },
-  "iPhone10,5": {
-    "model": "iPhone10,5",
-    "name": "iPhone 8 Plus (GSM)",
-    "image": "iPhone/iPhone10,5.png"
+  "iPhone15,4": {
+    "model": "iPhone15,4",
+    "name": "iPhone 15",
+    "image": "iPhone/iPhone15,4.png"
   },
-  "iPhone10,4": {
-    "model": "iPhone10,4",
-    "name": "iPhone 8 (GSM)",
-    "image": "iPhone/iPhone10,4.png"
+  "iPhone15,5": {
+    "model": "iPhone15,5",
+    "name": "iPhone 15 Plus",
+    "image": "iPhone/iPhone15,5.png"
   },
-  "iPhone10,1": {
-    "model": "iPhone10,1",
-    "name": "iPhone 8 (Global)",
-    "image": "iPhone/iPhone10,1.png"
+  "iPhone16,1": {
+    "model": "iPhone16,1",
+    "name": "iPhone 15 Pro",
+    "image": "iPhone/iPhone16,1.png"
   },
-  "iPhone9,4": {
-    "model": "iPhone9,4",
-    "name": "iPhone 7 Plus (GSM)",
-    "image": "iPhone/iPhone9,4.png"
+  "iPhone16,2": {
+    "model": "iPhone16,2",
+    "name": "iPhone 15 Pro Max",
+    "image": "iPhone/iPhone16,2.png"
   },
-  "iPhone9,3": {
-    "model": "iPhone9,3",
-    "name": "iPhone 7 (GSM)",
-    "image": "iPhone/iPhone9,3.png"
+  "iPhone17,1": {
+    "model": "iPhone17,1",
+    "name": "iPhone 16 Pro",
+    "image": "iPhone/iPhone17,1.png"
   },
-  "iPhone9,2": {
-    "model": "iPhone9,2",
-    "name": "iPhone 7 Plus (Global)",
-    "image": "iPhone/iPhone9,2.png"
+  "iPhone17,2": {
+    "model": "iPhone17,2",
+    "name": "iPhone 16 Pro Max",
+    "image": "iPhone/iPhone17,2.png"
   },
-  "iPhone9,1": {
-    "model": "iPhone9,1",
-    "name": "iPhone 7 (Global)",
-    "image": "iPhone/iPhone9,1.png"
+  "iPhone17,3": {
+    "model": "iPhone17,3",
+    "name": "iPhone 16",
+    "image": "iPhone/iPhone17,3.png"
   },
-  "iPhone8,4": {
-    "model": "iPhone8,4",
-    "name": "iPhone SE",
-    "image": "iPhone/iPhone8,4.png"
+  "iPhone17,4": {
+    "model": "iPhone17,4",
+    "name": "iPhone 16 Plus",
+    "image": "iPhone/iPhone17,4.png"
   },
-  "iPhone8,2": {
-    "model": "iPhone8,2",
-    "name": "iPhone 6s+",
-    "image": "iPhone/iPhone8,2.png"
+  "iPhone17,5": {
+    "model": "iPhone17,5",
+    "name": "iPhone 16e",
+    "image": "iPhone/iPhone17,5.png"
   },
-  "iPhone8,1": {
-    "model": "iPhone8,1",
-    "name": "iPhone 6s",
-    "image": "iPhone/iPhone8,1.png"
+  "iPad1,1": {
+    "model": "iPad1,1",
+    "name": "iPad",
+    "image": "iPad/iPad1,1.png"
   },
-  "iPhone7,2": {
-    "model": "iPhone7,2",
-    "name": "iPhone 6",
-    "image": "iPhone/iPhone7,2.png"
+  "iPad1,2": {
+    "model": "iPad1,2",
+    "name": "iPad",
+    "image": "iPad/iPad1,2.png"
   },
-  "iPhone7,1": {
-    "model": "iPhone7,1",
-    "name": "iPhone 6+",
-    "image": "iPhone/iPhone7,1.png"
+  "iPad2,1": {
+    "model": "iPad2,1",
+    "name": "iPad 2",
+    "image": "iPad/iPad2,1.png"
   },
-  "iPhone6,1": {
-    "model": "iPhone6,1",
-    "name": "iPhone 5s (GSM)",
-    "image": "iPhone/iPhone6,1.png"
+  "iPad2,2": {
+    "model": "iPad2,2",
+    "name": "iPad 2",
+    "image": "iPad/iPad2,2.png"
   },
-  "iPhone5,4": {
-    "model": "iPhone5,4",
-    "name": "iPhone 5c (Global)",
-    "image": "iPhone/iPhone5,4.png"
+  "iPad2,3": {
+    "model": "iPad2,3",
+    "name": "iPad 2",
+    "image": "iPad/iPad2,3.png"
   },
-  "iPhone5,3": {
-    "model": "iPhone5,3",
-    "name": "iPhone 5c (GSM)",
-    "image": "iPhone/iPhone5,3.png"
+  "iPad2,4": {
+    "model": "iPad2,4",
+    "name": "iPad 2",
+    "image": "iPad/iPad2,4.png"
   },
-  "iPhone6,2": {
-    "model": "iPhone6,2",
-    "name": "iPhone 5s (Global)",
-    "image": "iPhone/iPhone6,2.png"
+  "iPad2,5": {
+    "model": "iPad2,5",
+    "name": "iPad mini",
+    "image": "iPad/iPad2,5.png"
   },
-  "iPhone5,2": {
-    "model": "iPhone5,2",
-    "name": "iPhone 5 (Global)",
-    "image": "iPhone/iPhone5,2.png"
+  "iPad2,6": {
+    "model": "iPad2,6",
+    "name": "iPad mini",
+    "image": "iPad/iPad2,6.png"
   },
-  "iPhone5,1": {
-    "model": "iPhone5,1",
-    "name": "iPhone 5 (GSM)",
-    "image": "iPhone/iPhone5,1.png"
+  "iPad2,7": {
+    "model": "iPad2,7",
+    "name": "iPad mini",
+    "image": "iPad/iPad2,7.png"
   },
-  "iPhone3,2": {
-    "model": "iPhone3,2",
-    "name": "iPhone 4 (GSM / 2012)",
-    "image": "iPhone/iPhone3,2.png"
+  "iPad3,1": {
+    "model": "iPad3,1",
+    "name": "iPad (3rd generation)",
+    "image": "iPad/iPad3,1.png"
   },
-  "iPhone4,1": {
-    "model": "iPhone4,1",
-    "name": "iPhone 4[S]",
-    "image": "iPhone/iPhone4,1.png"
+  "iPad3,2": {
+    "model": "iPad3,2",
+    "name": "iPad (3rd generation)",
+    "image": "iPad/iPad3,2.png"
   },
-  "iPhone3,3": {
-    "model": "iPhone3,3",
-    "name": "iPhone 4 (CDMA)",
-    "image": "iPhone/iPhone3,3.png"
+  "iPad3,3": {
+    "model": "iPad3,3",
+    "name": "iPad (3rd generation)",
+    "image": "iPad/iPad3,3.png"
   },
-  "iPhone3,1": {
-    "model": "iPhone3,1",
-    "name": "iPhone 4 (GSM)",
-    "image": "iPhone/iPhone3,1.png"
+  "iPad3,4": {
+    "model": "iPad3,4",
+    "name": "iPad (4th generation)",
+    "image": "iPad/iPad3,4.png"
   },
-  "iPhone2,1": {
-    "model": "iPhone2,1",
-    "name": "iPhone 3G[S]",
-    "image": "iPhone/iPhone2,1.png"
+  "iPad3,5": {
+    "model": "iPad3,5",
+    "name": "iPad (4th generation)",
+    "image": "iPad/iPad3,5.png"
   },
-  "iPhone1,2": {
-    "model": "iPhone1,2",
-    "name": "iPhone 3G",
-    "image": "iPhone/iPhone1,2.png"
+  "iPad3,6": {
+    "model": "iPad3,6",
+    "name": "iPad (4th generation)",
+    "image": "iPad/iPad3,6.png"
   },
-  "iPhone1,1": {
-    "model": "iPhone1,1",
-    "name": "iPhone 2G",
-    "image": "iPhone/iPhone1,1.png"
+  "iPad4,1": {
+    "model": "iPad4,1",
+    "name": "iPad Air",
+    "image": "iPad/iPad4,1.png"
   },
-  "iPad14,6": {
-    "model": "iPad14,6",
-    "name": "iPad Pro (12.9-inch) (6th generation)",
-    "image": "iPad/iPad14,6.png"
+  "iPad4,2": {
+    "model": "iPad4,2",
+    "name": "iPad Air",
+    "image": "iPad/iPad4,2.png"
   },
-  "iPad14,5": {
-    "model": "iPad14,5",
-    "name": "iPad Pro (12.9-inch) (6th generation)",
-    "image": "iPad/iPad14,5.png"
+  "iPad4,3": {
+    "model": "iPad4,3",
+    "name": "iPad Air",
+    "image": "iPad/iPad4,3.png"
   },
-  "iPad14,4": {
-    "model": "iPad14,4",
-    "name": "iPad Pro (11-inch) (4th generation)",
-    "image": "iPad/iPad14,4.png"
+  "iPad4,4": {
+    "model": "iPad4,4",
+    "name": "iPad mini 2",
+    "image": "iPad/iPad4,4.png"
   },
-  "iPad14,3": {
-    "model": "iPad14,3",
-    "name": "iPad Pro (11-inch) (4th generation)",
-    "image": "iPad/iPad14,3.png"
+  "iPad4,5": {
+    "model": "iPad4,5",
+    "name": "iPad mini 2",
+    "image": "iPad/iPad4,5.png"
   },
-  "iPad13,19": {
-    "model": "iPad13,19",
-    "name": "iPad (10th generation)",
-    "image": "iPad/iPad13,19.png"
+  "iPad4,6": {
+    "model": "iPad4,6",
+    "name": "iPad mini 2",
+    "image": "iPad/iPad4,6.png"
   },
-  "iPad13,18": {
-    "model": "iPad13,18",
-    "name": "iPad (10th generation)",
-    "image": "iPad/iPad13,18.png"
+  "iPad4,7": {
+    "model": "iPad4,7",
+    "name": "iPad mini 3",
+    "image": "iPad/iPad4,7.png"
   },
-  "iPad13,16": {
-    "model": "iPad13,16",
-    "name": "iPad Air 5 (WiFi)",
-    "image": "iPad/iPad13,16.png"
+  "iPad4,8": {
+    "model": "iPad4,8",
+    "name": "iPad mini 3",
+    "image": "iPad/iPad4,8.png"
   },
-  "iPad13,17": {
-    "model": "iPad13,17",
-    "name": "iPad Air 5 (Cellular)",
-    "image": "iPad/iPad13,17.png"
+  "iPad4,9": {
+    "model": "iPad4,9",
+    "name": "iPad mini 3",
+    "image": "iPad/iPad4,9.png"
   },
-  "iPad14,2": {
-    "model": "iPad14,2",
-    "name": "iPad mini 6 (Cellular)",
-    "image": "iPad/iPad14,2.png"
+  "iPad5,1": {
+    "model": "iPad5,1",
+    "name": "iPad mini 4",
+    "image": "iPad/iPad5,1.png"
   },
-  "iPad14,1": {
-    "model": "iPad14,1",
-    "name": "iPad mini 6 (WiFi)",
-    "image": "iPad/iPad14,1.png"
+  "iPad5,2": {
+    "model": "iPad5,2",
+    "name": "iPad mini 4",
+    "image": "iPad/iPad5,2.png"
   },
-  "iPad12,2": {
-    "model": "iPad12,2",
-    "name": "iPad 9 (Cellular)",
-    "image": "iPad/iPad12,2.png"
+  "iPad5,3": {
+    "model": "iPad5,3",
+    "name": "iPad Air 2",
+    "image": "iPad/iPad5,3.png"
+  },
+  "iPad5,4": {
+    "model": "iPad5,4",
+    "name": "iPad Air 2",
+    "image": "iPad/iPad5,4.png"
+  },
+  "iPad6,3": {
+    "model": "iPad6,3",
+    "name": "iPad Pro (9.7-inch)",
+    "image": "iPad/iPad6,3.png"
+  },
+  "iPad6,4": {
+    "model": "iPad6,4",
+    "name": "iPad Pro (9.7-inch)",
+    "image": "iPad/iPad6,4.png"
+  },
+  "iPad6,7": {
+    "model": "iPad6,7",
+    "name": "iPad Pro (12.9-inch)",
+    "image": "iPad/iPad6,7.png"
+  },
+  "iPad6,8": {
+    "model": "iPad6,8",
+    "name": "iPad Pro (12.9-inch)",
+    "image": "iPad/iPad6,8.png"
+  },
+  "iPad6,11": {
+    "model": "iPad6,11",
+    "name": "iPad (5th generation)",
+    "image": "iPad/iPad6,11.png"
+  },
+  "iPad6,12": {
+    "model": "iPad6,12",
+    "name": "iPad (5th generation)",
+    "image": "iPad/iPad6,12.png"
+  },
+  "iPad7,1": {
+    "model": "iPad7,1",
+    "name": "iPad Pro (12.9-inch) (2nd generation)",
+    "image": "iPad/iPad7,1.png"
+  },
+  "iPad7,2": {
+    "model": "iPad7,2",
+    "name": "iPad Pro (12.9-inch) (2nd generation)",
+    "image": "iPad/iPad7,2.png"
+  },
+  "iPad7,3": {
+    "model": "iPad7,3",
+    "name": "iPad Pro (10.5-inch)",
+    "image": "iPad/iPad7,3.png"
+  },
+  "iPad7,4": {
+    "model": "iPad7,4",
+    "name": "iPad Pro (10.5-inch)",
+    "image": "iPad/iPad7,4.png"
+  },
+  "iPad7,5": {
+    "model": "iPad7,5",
+    "name": "iPad (6th generation)",
+    "image": "iPad/iPad7,5.png"
+  },
+  "iPad7,6": {
+    "model": "iPad7,6",
+    "name": "iPad (6th generation)",
+    "image": "iPad/iPad7,6.png"
+  },
+  "iPad7,11": {
+    "model": "iPad7,11",
+    "name": "iPad (7th generation)",
+    "image": "iPad/iPad7,11.png"
+  },
+  "iPad7,12": {
+    "model": "iPad7,12",
+    "name": "iPad (7th generation)",
+    "image": "iPad/iPad7,12.png"
+  },
+  "iPad8,1": {
+    "model": "iPad8,1",
+    "name": "iPad Pro (11-inch)",
+    "image": "iPad/iPad8,1.png"
+  },
+  "iPad8,2": {
+    "model": "iPad8,2",
+    "name": "iPad Pro (11-inch)",
+    "image": "iPad/iPad8,2.png"
+  },
+  "iPad8,3": {
+    "model": "iPad8,3",
+    "name": "iPad Pro (11-inch)",
+    "image": "iPad/iPad8,3.png"
+  },
+  "iPad8,4": {
+    "model": "iPad8,4",
+    "name": "iPad Pro (11-inch)",
+    "image": "iPad/iPad8,4.png"
+  },
+  "iPad8,5": {
+    "model": "iPad8,5",
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "image": "iPad/iPad8,5.png"
+  },
+  "iPad8,6": {
+    "model": "iPad8,6",
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "image": "iPad/iPad8,6.png"
+  },
+  "iPad8,7": {
+    "model": "iPad8,7",
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "image": "iPad/iPad8,7.png"
+  },
+  "iPad8,8": {
+    "model": "iPad8,8",
+    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "image": "iPad/iPad8,8.png"
+  },
+  "iPad8,9": {
+    "model": "iPad8,9",
+    "name": "iPad Pro (11-inch) (2nd generation)",
+    "image": "iPad/iPad8,9.png"
+  },
+  "iPad8,10": {
+    "model": "iPad8,10",
+    "name": "iPad Pro (11-inch) (2nd generation)",
+    "image": "iPad/iPad8,10.png"
+  },
+  "iPad8,11": {
+    "model": "iPad8,11",
+    "name": "iPad Pro (12.9-inch) (4th generation)",
+    "image": "iPad/iPad8,11.png"
+  },
+  "iPad8,12": {
+    "model": "iPad8,12",
+    "name": "iPad Pro (12.9-inch) (4th generation)",
+    "image": "iPad/iPad8,12.png"
+  },
+  "iPad11,1": {
+    "model": "iPad11,1",
+    "name": "iPad mini (5th generation)",
+    "image": "iPad/iPad11,1.png"
+  },
+  "iPad11,2": {
+    "model": "iPad11,2",
+    "name": "iPad mini (5th generation)",
+    "image": "iPad/iPad11,2.png"
+  },
+  "iPad11,3": {
+    "model": "iPad11,3",
+    "name": "iPad Air (3rd generation)",
+    "image": "iPad/iPad11,3.png"
+  },
+  "iPad11,4": {
+    "model": "iPad11,4",
+    "name": "iPad Air (3rd generation)",
+    "image": "iPad/iPad11,4.png"
+  },
+  "iPad11,6": {
+    "model": "iPad11,6",
+    "name": "iPad (8th generation)",
+    "image": "iPad/iPad11,6.png"
+  },
+  "iPad11,7": {
+    "model": "iPad11,7",
+    "name": "iPad (8th generation)",
+    "image": "iPad/iPad11,7.png"
   },
   "iPad12,1": {
     "model": "iPad12,1",
-    "name": "iPad 9 (WiFi)",
+    "name": "iPad (9th generation)",
     "image": "iPad/iPad12,1.png"
+  },
+  "iPad12,2": {
+    "model": "iPad12,2",
+    "name": "iPad (9th generation)",
+    "image": "iPad/iPad12,2.png"
+  },
+  "iPad13,1": {
+    "model": "iPad13,1",
+    "name": "iPad Air (4th generation)",
+    "image": "iPad/iPad13,1.png"
+  },
+  "iPad13,2": {
+    "model": "iPad13,2",
+    "name": "iPad Air (4th generation)",
+    "image": "iPad/iPad13,2.png"
+  },
+  "iPad13,4": {
+    "model": "iPad13,4",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,4.png"
+  },
+  "iPad13,5": {
+    "model": "iPad13,5",
+    "name": "iPad Pro (11-inch) (3rd generation)",
+    "image": "iPad/iPad13,5.png"
   },
   "iPad13,6": {
     "model": "iPad13,6",
@@ -334,514 +629,914 @@
     "name": "iPad Pro (11-inch) (3rd generation)",
     "image": "iPad/iPad13,7.png"
   },
-  "iPad13,10": {
-    "model": "iPad13,10",
-    "name": "iPad Pro (12.9-inch) (5th generation)",
-    "image": "iPad/iPad13,10.png"
-  },
   "iPad13,8": {
     "model": "iPad13,8",
     "name": "iPad Pro (12.9-inch) (5th generation)",
     "image": "iPad/iPad13,8.png"
-  },
-  "iPad13,11": {
-    "model": "iPad13,11",
-    "name": "iPad Pro (12.9-inch) (5th generation)",
-    "image": "iPad/iPad13,11.png"
   },
   "iPad13,9": {
     "model": "iPad13,9",
     "name": "iPad Pro (12.9-inch) (5th generation)",
     "image": "iPad/iPad13,9.png"
   },
-  "iPad13,5": {
-    "model": "iPad13,5",
-    "name": "iPad Pro (11-inch) (3rd generation)",
-    "image": "iPad/iPad13,5.png"
-  },
-  "iPad13,4": {
-    "model": "iPad13,4",
-    "name": "iPad Pro (11-inch) (3rd generation)",
-    "image": "iPad/iPad13,4.png"
-  },
-  "iPad13,2": {
-    "model": "iPad13,2",
-    "name": "iPad Air 4 (Cellular)",
-    "image": "iPad/iPad13,2.png"
-  },
-  "iPad11,7": {
-    "model": "iPad11,7",
-    "name": "iPad 8 (Cellular)",
-    "image": "iPad/iPad11,7.png"
-  },
-  "iPad11,6": {
-    "model": "iPad11,6",
-    "name": "iPad 8 (WiFi)",
-    "image": "iPad/iPad11,6.png"
-  },
-  "iPad13,1": {
-    "model": "iPad13,1",
-    "name": "iPad Air 4 (WiFi)",
-    "image": "iPad/iPad13,1.png"
-  },
-  "iPad8,10": {
-    "model": "iPad8,10",
-    "name": "iPad Pro 4 (11-inch, Cellular)",
-    "image": "iPad/iPad8,10.png"
-  },
-  "iPad8,11": {
-    "model": "iPad8,11",
-    "name": "iPad Pro 4 (12.9-inch, WiFi)",
-    "image": "iPad/iPad8,11.png"
-  },
-  "iPad8,9": {
-    "model": "iPad8,9",
-    "name": "iPad Pro 4 (11-inch, WiFi)",
-    "image": "iPad/iPad8,9.png"
-  },
-  "iPad8,12": {
-    "model": "iPad8,12",
-    "name": "iPad Pro 4 (12.9-inch, Cellular)",
-    "image": "iPad/iPad8,12.png"
-  },
-  "iPad7,11": {
-    "model": "iPad7,11",
-    "name": "iPad 7 (WiFi)",
-    "image": "iPad/iPad7,11.png"
-  },
-  "iPad7,12": {
-    "model": "iPad7,12",
-    "name": "iPad 7 (Cellular)",
-    "image": "iPad/iPad7,12.png"
-  },
-  "iPad11,4": {
-    "model": "iPad11,4",
-    "name": "iPad Air 3 (Cellular)",
-    "image": "iPad/iPad11,4.png"
-  },
-  "iPad11,3": {
-    "model": "iPad11,3",
-    "name": "iPad Air 3 (WiFi)",
-    "image": "iPad/iPad11,3.png"
-  },
-  "iPad11,2": {
-    "model": "iPad11,2",
-    "name": "iPad mini 5 (Cellular)",
-    "image": "iPad/iPad11,2.png"
-  },
-  "iPad11,1": {
-    "model": "iPad11,1",
-    "name": "iPad mini 5 (WiFi)",
-    "image": "iPad/iPad11,1.png"
-  },
-  "iPad8,8": {
-    "model": "iPad8,8",
-    "name": "iPad Pro 3 (12.9-inch, Cellular, 1TB Model)",
-    "image": "iPad/iPad8,8.png"
-  },
-  "iPad8,7": {
-    "model": "iPad8,7",
-    "name": "iPad Pro 3 (12.9-inch, Cellular)",
-    "image": "iPad/iPad8,7.png"
-  },
-  "iPad8,5": {
-    "model": "iPad8,5",
-    "name": "iPad Pro 3 (12.9-inch, WiFi)",
-    "image": "iPad/iPad8,5.png"
-  },
-  "iPad8,4": {
-    "model": "iPad8,4",
-    "name": "iPad Pro 3 (11-inch, Cellular, 1TB Model)",
-    "image": "iPad/iPad8,4.png"
-  },
-  "iPad8,2": {
-    "model": "iPad8,2",
-    "name": "iPad Pro 3 (11-inch, WiFi, 1TB Model)",
-    "image": "iPad/iPad8,2.png"
-  },
-  "iPad8,1": {
-    "model": "iPad8,1",
-    "name": "iPad Pro 3 (11-inch, WiFi)",
-    "image": "iPad/iPad8,1.png"
-  },
-  "iPad8,3": {
-    "model": "iPad8,3",
-    "name": "iPad Pro 3 (11-inch, Cellular)",
-    "image": "iPad/iPad8,3.png"
-  },
-  "iPad8,6": {
-    "model": "iPad8,6",
-    "name": "iPad Pro 3 (12.9-inch, WiFi, 1TB Model)",
-    "image": "iPad/iPad8,6.png"
-  },
-  "iPad7,6": {
-    "model": "iPad7,6",
-    "name": "iPad 6 (Cellular)",
-    "image": "iPad/iPad7,6.png"
-  },
-  "iPad7,5": {
-    "model": "iPad7,5",
-    "name": "iPad 6 (WiFi)",
-    "image": "iPad/iPad7,5.png"
-  },
-  "iPad7,1": {
-    "model": "iPad7,1",
-    "name": "iPad Pro 2 (12.9-inch, WiFi)",
-    "image": "iPad/iPad7,1.png"
-  },
-  "iPad7,3": {
-    "model": "iPad7,3",
-    "name": "iPad Pro (10.5-inch, WiFi)",
-    "image": "iPad/iPad7,3.png"
-  },
-  "iPad7,4": {
-    "model": "iPad7,4",
-    "name": "iPad Pro (10.5-inch, Cellular)",
-    "image": "iPad/iPad7,4.png"
-  },
-  "iPad7,2": {
-    "model": "iPad7,2",
-    "name": "iPad Pro 2 (12.9-inch, Cellular)",
-    "image": "iPad/iPad7,2.png"
-  },
-  "iPad6,12": {
-    "model": "iPad6,12",
-    "name": "iPad 5 (Cellular)",
-    "image": "iPad/iPad6,12.png"
-  },
-  "iPad6,11": {
-    "model": "iPad6,11",
-    "name": "iPad 5 (WiFi)",
-    "image": "iPad/iPad6,11.png"
-  },
-  "iPad6,3": {
-    "model": "iPad6,3",
-    "name": "iPad Pro 9.7-inch (WiFi)",
-    "image": "iPad/iPad6,3.png"
-  },
-  "iPad6,4": {
-    "model": "iPad6,4",
-    "name": "iPad Pro 9.7-inch (Cellular)",
-    "image": "iPad/iPad6,4.png"
-  },
-  "iPad6,8": {
-    "model": "iPad6,8",
-    "name": "iPad Pro 12.9-inch (Cellular)",
-    "image": "iPad/iPad6,8.png"
-  },
-  "iPad6,7": {
-    "model": "iPad6,7",
-    "name": "iPad Pro 12.9-inch (WiFi)",
-    "image": "iPad/iPad6,7.png"
-  },
-  "iPad5,2": {
-    "model": "iPad5,2",
-    "name": "iPad mini 4 (Cellular)",
-    "image": "iPad/iPad5,2.png"
-  },
-  "iPad5,1": {
-    "model": "iPad5,1",
-    "name": "iPad mini 4 (WiFi)",
-    "image": "iPad/iPad5,1.png"
-  },
-  "iPad5,4": {
-    "model": "iPad5,4",
-    "name": "iPad Air 2 (Cellular)",
-    "image": "iPad/iPad5,4.png"
-  },
-  "iPad5,3": {
-    "model": "iPad5,3",
-    "name": "iPad Air 2 (WiFi)",
-    "image": "iPad/iPad5,3.png"
-  },
-  "iPad4,9": {
-    "model": "iPad4,9",
-    "name": "iPad mini 3 (China)",
-    "image": "iPad/iPad4,9.png"
-  },
-  "iPad4,8": {
-    "model": "iPad4,8",
-    "name": "iPad mini 3 (Cellular)",
-    "image": "iPad/iPad4,8.png"
-  },
-  "iPad4,7": {
-    "model": "iPad4,7",
-    "name": "iPad mini 3 (WiFi)",
-    "image": "iPad/iPad4,7.png"
-  },
-  "iPad4,6": {
-    "model": "iPad4,6",
-    "name": "iPad mini 2 (China)",
-    "image": "iPad/iPad4,6.png"
-  },
-  "iPad4,3": {
-    "model": "iPad4,3",
-    "name": "iPad Air (China)",
-    "image": "iPad/iPad4,3.png"
-  },
-  "iPad4,2": {
-    "model": "iPad4,2",
-    "name": "iPad Air (Cellular)",
-    "image": "iPad/iPad4,2.png"
-  },
-  "iPad4,1": {
-    "model": "iPad4,1",
-    "name": "iPad Air (WiFi)",
-    "image": "iPad/iPad4,1.png"
-  },
-  "iPad4,5": {
-    "model": "iPad4,5",
-    "name": "iPad mini 2 (Cellular)",
-    "image": "iPad/iPad4,5.png"
-  },
-  "iPad4,4": {
-    "model": "iPad4,4",
-    "name": "iPad mini 2 (WiFi)",
-    "image": "iPad/iPad4,4.png"
-  },
-  "iPad3,6": {
-    "model": "iPad3,6",
-    "name": "iPad 4 (Global)",
-    "image": "iPad/iPad3,6.png"
-  },
-  "iPad3,5": {
-    "model": "iPad3,5",
-    "name": "iPad 4 (GSM)",
-    "image": "iPad/iPad3,5.png"
-  },
-  "iPad3,4": {
-    "model": "iPad3,4",
-    "name": "iPad 4 (WiFi)",
-    "image": "iPad/iPad3,4.png"
-  },
-  "iPad2,7": {
-    "model": "iPad2,7",
-    "name": "iPad mini (Global)",
-    "image": "iPad/iPad2,7.png"
-  },
-  "iPad2,6": {
-    "model": "iPad2,6",
-    "name": "iPad mini (GSM)",
-    "image": "iPad/iPad2,6.png"
-  },
-  "iPad2,5": {
-    "model": "iPad2,5",
-    "name": "iPad mini (WiFi)",
-    "image": "iPad/iPad2,5.png"
-  },
-  "iPad3,3": {
-    "model": "iPad3,3",
-    "name": "iPad 3 (GSM)",
-    "image": "iPad/iPad3,3.png"
-  },
-  "iPad3,2": {
-    "model": "iPad3,2",
-    "name": "iPad 3 (CDMA)",
-    "image": "iPad/iPad3,2.png"
-  },
-  "iPad3,1": {
-    "model": "iPad3,1",
-    "name": "iPad 3 (WiFi)",
-    "image": "iPad/iPad3,1.png"
-  },
-  "iPad2,4": {
-    "model": "iPad2,4",
-    "name": "iPad 2 (Mid 2012)",
-    "image": "iPad/iPad2,4.png"
-  },
-  "iPad2,3": {
-    "model": "iPad2,3",
-    "name": "iPad 2 (CDMA)",
-    "image": "iPad/iPad2,3.png"
-  },
-  "iPad2,2": {
-    "model": "iPad2,2",
-    "name": "iPad 2 (GSM)",
-    "image": "iPad/iPad2,2.png"
-  },
-  "iPad2,1": {
-    "model": "iPad2,1",
-    "name": "iPad 2 (WiFi)",
-    "image": "iPad/iPad2,1.png"
-  },
-  "iPad1,1": {
-    "model": "iPad1,1",
-    "name": "iPad 1",
-    "image": "iPad/iPad1,1.png"
-  },
-  "iPod9,1": {
-    "model": "iPod9,1",
-    "name": "iPod touch 7",
-    "image": "iPod/iPod9,1.png"
-  },
-  "iPod7,1": {
-    "model": "iPod7,1",
-    "name": "iPod touch 6",
-    "image": "iPod/iPod7,1.png"
-  },
-  "iPod5,1": {
-    "model": "iPod5,1",
-    "name": "iPod touch 5",
-    "image": "iPod/iPod5,1.png"
-  },
-  "iPod4,1": {
-    "model": "iPod4,1",
-    "name": "iPod touch 4",
-    "image": "iPod/iPod4,1.png"
-  },
-  "iPod3,1": {
-    "model": "iPod3,1",
-    "name": "iPod touch 3",
-    "image": "iPod/iPod3,1.png"
-  },
-  "iPod2,1": {
-    "model": "iPod2,1",
-    "name": "iPod touch 2G",
-    "image": "iPod/iPod2,1.png"
+  "iPad13,10": {
+    "model": "iPad13,10",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,10.png"
+  },
+  "iPad13,11": {
+    "model": "iPad13,11",
+    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "image": "iPad/iPad13,11.png"
+  },
+  "iPad13,16": {
+    "model": "iPad13,16",
+    "name": "iPad Air (5th generation)",
+    "image": "iPad/iPad13,16.png"
+  },
+  "iPad13,17": {
+    "model": "iPad13,17",
+    "name": "iPad Air (5th generation)",
+    "image": "iPad/iPad13,17.png"
+  },
+  "iPad13,18": {
+    "model": "iPad13,18",
+    "name": "iPad (10th generation)",
+    "image": "iPad/iPad13,18.png"
+  },
+  "iPad13,19": {
+    "model": "iPad13,19",
+    "name": "iPad (10th generation)",
+    "image": "iPad/iPad13,19.png"
+  },
+  "iPad14,1": {
+    "model": "iPad14,1",
+    "name": "iPad mini (6th generation)",
+    "image": "iPad/iPad14,1.png"
+  },
+  "iPad14,2": {
+    "model": "iPad14,2",
+    "name": "iPad mini (6th generation)",
+    "image": "iPad/iPad14,2.png"
+  },
+  "iPad14,3": {
+    "model": "iPad14,3",
+    "name": "iPad Pro (11-inch) (4th generation)",
+    "image": "iPad/iPad14,3.png"
+  },
+  "iPad14,4": {
+    "model": "iPad14,4",
+    "name": "iPad Pro (11-inch) (4th generation)",
+    "image": "iPad/iPad14,4.png"
+  },
+  "iPad14,5": {
+    "model": "iPad14,5",
+    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "image": "iPad/iPad14,5.png"
+  },
+  "iPad14,6": {
+    "model": "iPad14,6",
+    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "image": "iPad/iPad14,6.png"
+  },
+  "iPad14,8": {
+    "model": "iPad14,8",
+    "name": "iPad Air 11-inch (M2)",
+    "image": "iPad/iPad14,8.png"
+  },
+  "iPad14,9": {
+    "model": "iPad14,9",
+    "name": "iPad Air 11-inch (M2)",
+    "image": "iPad/iPad14,9.png"
+  },
+  "iPad14,10": {
+    "model": "iPad14,10",
+    "name": "iPad Air 13-inch (M2)",
+    "image": "iPad/iPad14,10.png"
+  },
+  "iPad14,11": {
+    "model": "iPad14,11",
+    "name": "iPad Air 13-inch (M2)",
+    "image": "iPad/iPad14,11.png"
+  },
+  "iPad15,3": {
+    "model": "iPad15,3",
+    "name": "iPad Air 11-inch (M3)",
+    "image": "iPad/iPad15,3.png"
+  },
+  "iPad15,4": {
+    "model": "iPad15,4",
+    "name": "iPad Air 11-inch (M3)",
+    "image": "iPad/iPad15,4.png"
+  },
+  "iPad15,5": {
+    "model": "iPad15,5",
+    "name": "iPad Air 13-inch (M3)",
+    "image": "iPad/iPad15,5.png"
+  },
+  "iPad15,6": {
+    "model": "iPad15,6",
+    "name": "iPad Air 13-inch (M3)",
+    "image": "iPad/iPad15,6.png"
+  },
+  "iPad15,7": {
+    "model": "iPad15,7",
+    "name": "iPad (A16)",
+    "image": "iPad/iPad15,7.png"
+  },
+  "iPad15,8": {
+    "model": "iPad15,8",
+    "name": "iPad (A16)",
+    "image": "iPad/iPad15,8.png"
+  },
+  "iPad16,1": {
+    "model": "iPad16,1",
+    "name": "iPad mini (A17 Pro)",
+    "image": "iPad/iPad16,1.png"
+  },
+  "iPad16,2": {
+    "model": "iPad16,2",
+    "name": "iPad mini (A17 Pro)",
+    "image": "iPad/iPad16,2.png"
+  },
+  "iPad16,3": {
+    "model": "iPad16,3",
+    "name": "iPad Pro 11-inch (M4)",
+    "image": "iPad/iPad16,3.png"
+  },
+  "iPad16,4": {
+    "model": "iPad16,4",
+    "name": "iPad Pro 11-inch (M4)",
+    "image": "iPad/iPad16,4.png"
+  },
+  "iPad16,5": {
+    "model": "iPad16,5",
+    "name": "iPad Pro 13-inch (M4)",
+    "image": "iPad/iPad16,5.png"
+  },
+  "iPad16,6": {
+    "model": "iPad16,6",
+    "name": "iPad Pro 13-inch (M4)",
+    "image": "iPad/iPad16,6.png"
   },
   "iPod1,1": {
     "model": "iPod1,1",
-    "name": "iPod touch 1G",
+    "name": "iPod touch",
     "image": "iPod/iPod1,1.png"
   },
-  "Mac14,8": {
-    "model": "Mac14,8",
-    "name": "Mac Pro (2023)",
-    "image": "Mac/Mac14,8.png"
+  "iPod2,1": {
+    "model": "iPod2,1",
+    "name": "iPod touch (2nd generation)",
+    "image": "iPod/iPod2,1.png"
   },
-  "Mac14,14": {
-    "model": "Mac14,14",
-    "name": "Mac Studio (M2 Ultra, 2023)",
-    "image": "Mac/Mac14,14.png"
+  "iPod3,1": {
+    "model": "iPod3,1",
+    "name": "iPod touch (3rd generation)",
+    "image": "iPod/iPod3,1.png"
   },
-  "Mac14,13": {
-    "model": "Mac14,13",
-    "name": "Mac Studio (M2 Max, 2023)",
-    "image": "Mac/Mac14,13.png"
+  "iPod4,1": {
+    "model": "iPod4,1",
+    "name": "iPod touch (4th generation)",
+    "image": "iPod/iPod4,1.png"
   },
-  "Mac14,15": {
-    "model": "Mac14,15",
-    "name": "MacBook Air (15-inch, M2, 2023)",
-    "image": "Mac/Mac14,15.png"
+  "iPod5,1": {
+    "model": "iPod5,1",
+    "name": "iPod touch (5th generation)",
+    "image": "iPod/iPod5,1.png"
   },
-  "Mac14,10": {
-    "model": "Mac14,10",
-    "name": "MacBook Pro (M2 Pro, 16-inch, 2023)",
-    "image": "Mac/Mac14,10.png"
+  "iPod7,1": {
+    "model": "iPod7,1",
+    "name": "iPod touch (6th generation)",
+    "image": "iPod/iPod7,1.png"
   },
-  "Mac14,12": {
-    "model": "Mac14,12",
-    "name": "Mac mini (M2 Pro, 2023)",
-    "image": "Mac/Mac14,12.png"
+  "iPod9,1": {
+    "model": "iPod9,1",
+    "name": "iPod touch (7th generation)",
+    "image": "iPod/iPod9,1.png"
   },
-  "Mac14,9": {
-    "model": "Mac14,9",
-    "name": "MacBook Pro (M2 Pro, 14-inch, 2023)",
-    "image": "Mac/Mac14,9.png"
+  "iMac9,1": {
+    "model": "iMac9,1",
+    "name": "iMac (Early 2009)",
+    "image": "Mac/iMac9,1.png"
   },
-  "Mac14,6": {
-    "model": "Mac14,6",
-    "name": "MacBook Pro (M2 Max, 16-inch, 2023)",
-    "image": "Mac/Mac14,6.png"
+  "iMac10,1": {
+    "model": "iMac10,1",
+    "name": "iMac (Late 2009)",
+    "image": "Mac/iMac10,1.png"
   },
-  "Mac14,5": {
-    "model": "Mac14,5",
-    "name": "MacBook Pro (M2 Max, 14-inch, 2023)",
-    "image": "Mac/Mac14,5.png"
+  "iMac11,2": {
+    "model": "iMac11,2",
+    "name": "iMac (21.5-inch, Mid 2010)",
+    "image": "Mac/iMac11,2.png"
   },
-  "Mac14,3": {
-    "model": "Mac14,3",
-    "name": "Mac mini (M2, 2023)",
-    "image": "Mac/Mac14,3.png"
+  "iMac11,3": {
+    "model": "iMac11,3",
+    "name": "iMac (27-inch, Mid 2010)",
+    "image": "Mac/iMac11,3.png"
   },
-  "Mac14,7": {
-    "model": "Mac14,7",
-    "name": "MacBook Pro (13-inch, M2, 2022)",
-    "image": "Mac/Mac14,7.png"
+  "iMac12,1": {
+    "model": "iMac12,1",
+    "name": "iMac (21.5-inch, Mid 2011)",
+    "image": "Mac/iMac12,1.png"
+  },
+  "iMac12,2": {
+    "model": "iMac12,2",
+    "name": "iMac (27-inch, Mid 2011)",
+    "image": "Mac/iMac12,2.png"
+  },
+  "iMac13,1": {
+    "model": "iMac13,1",
+    "name": "iMac (21.5-inch, Late 2012)",
+    "image": "Mac/iMac13,1.png"
+  },
+  "iMac13,2": {
+    "model": "iMac13,2",
+    "name": "iMac (27-inch, Late 2012)",
+    "image": "Mac/iMac13,2.png"
+  },
+  "iMac14,1": {
+    "model": "iMac14,1",
+    "name": "iMac (21.5-inch, Late 2013)",
+    "image": "Mac/iMac14,1.png"
+  },
+  "iMac14,2": {
+    "model": "iMac14,2",
+    "name": "iMac (27-inch, Late 2013)",
+    "image": "Mac/iMac14,2.png"
+  },
+  "iMac14,4": {
+    "model": "iMac14,4",
+    "name": "iMac (21.5-inch, Mid 2014)",
+    "image": "Mac/iMac14,4.png"
+  },
+  "iMac15,1": {
+    "model": "iMac15,1",
+    "name": "iMac (Retina 5K, 27-inch, Late 2014 / Mid 2015)",
+    "image": "Mac/iMac15,1.png"
+  },
+  "iMac16,1": {
+    "model": "iMac16,1",
+    "name": "iMac (21.5-inch, Late 2015)",
+    "image": "Mac/iMac16,1.png"
+  },
+  "iMac16,2": {
+    "model": "iMac16,2",
+    "name": "iMac (Retina 4K, 21.5-inch, Late 2015)",
+    "image": "Mac/iMac16,2.png"
+  },
+  "iMac17,1": {
+    "model": "iMac17,1",
+    "name": "iMac (Retina 5K, 27-inch, Late 2015)",
+    "image": "Mac/iMac17,1.png"
+  },
+  "iMac18,1": {
+    "model": "iMac18,1",
+    "name": "iMac (21.5-inch, 2017)",
+    "image": "Mac/iMac18,1.png"
+  },
+  "iMac18,2": {
+    "model": "iMac18,2",
+    "name": "iMac (Retina 4K, 21.5-inch, 2017)",
+    "image": "Mac/iMac18,2.png"
+  },
+  "iMac18,3": {
+    "model": "iMac18,3",
+    "name": "iMac (Retina 5K, 27-inch, 2017)",
+    "image": "Mac/iMac18,3.png"
+  },
+  "iMac19,1": {
+    "model": "iMac19,1",
+    "name": "iMac (Retina 5K, 27-inch, 2019)",
+    "image": "Mac/iMac19,1.png"
+  },
+  "iMac19,2": {
+    "model": "iMac19,2",
+    "name": "iMac (Retina 4K, 21.5-inch, 2019)",
+    "image": "Mac/iMac19,2.png"
+  },
+  "iMac20,1": {
+    "model": "iMac20,1",
+    "name": "iMac (Retina 5K, 27-inch, 2020)",
+    "image": "Mac/iMac20,1.png"
+  },
+  "iMac20,2": {
+    "model": "iMac20,2",
+    "name": "iMac (Retina 5K, 27-inch, 2020)",
+    "image": "Mac/iMac20,2.png"
+  },
+  "iMac21,1": {
+    "model": "iMac21,1",
+    "name": "iMac (24-inch, M1, 2021)",
+    "image": "Mac/iMac21,1.png"
+  },
+  "iMac21,2": {
+    "model": "iMac21,2",
+    "name": "iMac (24-inch, M1, 2021)",
+    "image": "Mac/iMac21,2.png"
+  },
+  "iMacPro1,1": {
+    "model": "iMacPro1,1",
+    "name": "iMac Pro (2017)",
+    "image": "Mac/iMacPro1,1.png"
+  },
+  "Mac13,1": {
+    "model": "Mac13,1",
+    "name": "Mac Studio (2022)",
+    "image": "Mac/Mac13,1.png"
+  },
+  "Mac13,2": {
+    "model": "Mac13,2",
+    "name": "Mac Studio (2022)",
+    "image": "Mac/Mac13,2.png"
   },
   "Mac14,2": {
     "model": "Mac14,2",
     "name": "MacBook Air (M2, 2022)",
     "image": "Mac/Mac14,2.png"
   },
-  "Mac13,2": {
-    "model": "Mac13,2",
-    "name": "Mac Studio (M1 Ultra)",
-    "image": "Mac/Mac13,2.png"
+  "Mac14,3": {
+    "model": "Mac14,3",
+    "name": "Mac mini (2023)",
+    "image": "Mac/Mac14,3.png"
   },
-  "Mac13,1": {
-    "model": "Mac13,1",
-    "name": "Mac Studio (M1 Max)",
-    "image": "Mac/Mac13,1.png"
+  "Mac14,5": {
+    "model": "Mac14,5",
+    "name": "MacBook Pro (14-inch, 2023)",
+    "image": "Mac/Mac14,5.png"
   },
-  "MacBookPro18,4": {
-    "model": "MacBookPro18,4",
-    "name": "MacBook Pro (M1 Max, 14-inch, 2021)",
-    "image": "Mac/MacBookPro18,4.png"
+  "Mac14,6": {
+    "model": "Mac14,6",
+    "name": "MacBook Pro (16-inch, 2023)",
+    "image": "Mac/Mac14,6.png"
   },
-  "MacBookPro18,1": {
-    "model": "MacBookPro18,1",
-    "name": "MacBook Pro (M1 Pro, 16-inch, 2021)",
-    "image": "Mac/MacBookPro18,1.png"
+  "Mac14,7": {
+    "model": "Mac14,7",
+    "name": "MacBook Pro (13-inch, M2, 2022)",
+    "image": "Mac/Mac14,7.png"
   },
-  "MacBookPro18,3": {
-    "model": "MacBookPro18,3",
-    "name": "MacBook Pro (M1 Pro, 14-inch, 2021)",
-    "image": "Mac/MacBookPro18,3.png"
+  "Mac14,8": {
+    "model": "Mac14,8",
+    "name": "Mac Pro (2023)",
+    "image": "Mac/Mac14,8.png"
   },
-  "MacBookPro18,2": {
-    "model": "MacBookPro18,2",
-    "name": "MacBook Pro (M1 Max, 16-inch, 2021)",
-    "image": "Mac/MacBookPro18,2.png"
+  "Mac14,9": {
+    "model": "Mac14,9",
+    "name": "MacBook Pro (14-inch, 2023)",
+    "image": "Mac/Mac14,9.png"
   },
-  "Macmini9,1": {
-    "model": "Macmini9,1",
-    "name": "Mac mini (M1, Late 2020)",
-    "image": "Mac/Macmini9,1.png"
+  "Mac14,10": {
+    "model": "Mac14,10",
+    "name": "MacBook Pro (16-inch, 2023)",
+    "image": "Mac/Mac14,10.png"
+  },
+  "Mac14,12": {
+    "model": "Mac14,12",
+    "name": "Mac mini (2023)",
+    "image": "Mac/Mac14,12.png"
+  },
+  "Mac14,13": {
+    "model": "Mac14,13",
+    "name": "Mac Studio (2023)",
+    "image": "Mac/Mac14,13.png"
+  },
+  "Mac14,14": {
+    "model": "Mac14,14",
+    "name": "Mac Studio (2023)",
+    "image": "Mac/Mac14,14.png"
+  },
+  "Mac14,15": {
+    "model": "Mac14,15",
+    "name": "MacBook Air (15-inch, M2, 2023)",
+    "image": "Mac/Mac14,15.png"
+  },
+  "Mac15,3": {
+    "model": "Mac15,3",
+    "name": "MacBook Pro (14-inch, Nov 2023)",
+    "image": "Mac/Mac15,3.png"
+  },
+  "Mac15,4": {
+    "model": "Mac15,4",
+    "name": "iMac (24-inch, 2023, Two ports)",
+    "image": "Mac/Mac15,4.png"
+  },
+  "Mac15,5": {
+    "model": "Mac15,5",
+    "name": "iMac (24-inch, 2023, Four ports)",
+    "image": "Mac/Mac15,5.png"
+  },
+  "Mac15,6": {
+    "model": "Mac15,6",
+    "name": "MacBook Pro (14-inch, Nov 2023)",
+    "image": "Mac/Mac15,6.png"
+  },
+  "Mac15,7": {
+    "model": "Mac15,7",
+    "name": "MacBook Pro (16-inch, Nov 2023)",
+    "image": "Mac/Mac15,7.png"
+  },
+  "Mac15,8": {
+    "model": "Mac15,8",
+    "name": "MacBook Pro (14-inch, Nov 2023)",
+    "image": "Mac/Mac15,8.png"
+  },
+  "Mac15,9": {
+    "model": "Mac15,9",
+    "name": "MacBook Pro (16-inch, Nov 2023)",
+    "image": "Mac/Mac15,9.png"
+  },
+  "Mac15,10": {
+    "model": "Mac15,10",
+    "name": "MacBook Pro (14-inch, Nov 2023)",
+    "image": "Mac/Mac15,10.png"
+  },
+  "Mac15,11": {
+    "model": "Mac15,11",
+    "name": "MacBook Pro (16-inch, Nov 2023)",
+    "image": "Mac/Mac15,11.png"
+  },
+  "Mac15,12": {
+    "model": "Mac15,12",
+    "name": "MacBook Air (13-inch, M3, 2024)",
+    "image": "Mac/Mac15,12.png"
+  },
+  "Mac15,13": {
+    "model": "Mac15,13",
+    "name": "MacBook Air (15-inch, M3, 2024)",
+    "image": "Mac/Mac15,13.png"
+  },
+  "Mac15,14": {
+    "model": "Mac15,14",
+    "name": "Mac Studio (2025)",
+    "image": "Mac/Mac15,14.png"
+  },
+  "Mac16,1": {
+    "model": "Mac16,1",
+    "name": "MacBook Pro (14-inch, 2024)",
+    "image": "Mac/Mac16,1.png"
+  },
+  "Mac16,2": {
+    "model": "Mac16,2",
+    "name": "iMac (24-inch, 2024, Two ports)",
+    "image": "Mac/Mac16,2.png"
+  },
+  "Mac16,3": {
+    "model": "Mac16,3",
+    "name": "iMac (24-inch, 2024, Four ports)",
+    "image": "Mac/Mac16,3.png"
+  },
+  "Mac16,5": {
+    "model": "Mac16,5",
+    "name": "MacBook Pro (16-inch, 2024)",
+    "image": "Mac/Mac16,5.png"
+  },
+  "Mac16,6": {
+    "model": "Mac16,6",
+    "name": "MacBook Pro (14-inch, 2024)",
+    "image": "Mac/Mac16,6.png"
+  },
+  "Mac16,7": {
+    "model": "Mac16,7",
+    "name": "MacBook Pro (16-inch, 2024)",
+    "image": "Mac/Mac16,7.png"
+  },
+  "Mac16,8": {
+    "model": "Mac16,8",
+    "name": "MacBook Pro (14-inch, 2024)",
+    "image": "Mac/Mac16,8.png"
+  },
+  "Mac16,9": {
+    "model": "Mac16,9",
+    "name": "Mac Studio (2025)",
+    "image": "Mac/Mac16,9.png"
+  },
+  "Mac16,10": {
+    "model": "Mac16,10",
+    "name": "Mac mini (2024)",
+    "image": "Mac/Mac16,10.png"
+  },
+  "Mac16,11": {
+    "model": "Mac16,11",
+    "name": "Mac mini (2024)",
+    "image": "Mac/Mac16,11.png"
+  },
+  "Mac16,12": {
+    "model": "Mac16,12",
+    "name": "MacBook Air (13-inch, M4, 2025)",
+    "image": "Mac/Mac16,12.png"
+  },
+  "Mac16,13": {
+    "model": "Mac16,13",
+    "name": "MacBook Air (15-inch, M4, 2025)",
+    "image": "Mac/Mac16,13.png"
+  },
+  "MacBook5,2": {
+    "model": "MacBook5,2",
+    "name": "MacBook (13-inch, Early 2009 / Mid 2009)",
+    "image": "Mac/MacBook5,2.png"
+  },
+  "MacBook6,1": {
+    "model": "MacBook6,1",
+    "name": "MacBook (13-inch, Late 2009)",
+    "image": "Mac/MacBook6,1.png"
+  },
+  "MacBook7,1": {
+    "model": "MacBook7,1",
+    "name": "MacBook (13-inch, Mid 2010)",
+    "image": "Mac/MacBook7,1.png"
+  },
+  "MacBook8,1": {
+    "model": "MacBook8,1",
+    "name": "MacBook (Retina, 12-inch, Early 2015)",
+    "image": "Mac/MacBook8,1.png"
+  },
+  "MacBook9,1": {
+    "model": "MacBook9,1",
+    "name": "MacBook (Retina, 12-inch, Early 2016)",
+    "image": "Mac/MacBook9,1.png"
+  },
+  "MacBook10,1": {
+    "model": "MacBook10,1",
+    "name": "MacBook (Retina, 12-inch, 2017)",
+    "image": "Mac/MacBook10,1.png"
+  },
+  "MacBookAir2,1": {
+    "model": "MacBookAir2,1",
+    "name": "MacBook Air (Mid 2009)",
+    "image": "Mac/MacBookAir2,1.png"
+  },
+  "MacBookAir3,1": {
+    "model": "MacBookAir3,1",
+    "name": "MacBook Air (11-inch, Late 2010)",
+    "image": "Mac/MacBookAir3,1.png"
+  },
+  "MacBookAir3,2": {
+    "model": "MacBookAir3,2",
+    "name": "MacBook Air (13-inch, Late 2010)",
+    "image": "Mac/MacBookAir3,2.png"
+  },
+  "MacBookAir4,1": {
+    "model": "MacBookAir4,1",
+    "name": "MacBook Air (11-inch, Mid 2011)",
+    "image": "Mac/MacBookAir4,1.png"
+  },
+  "MacBookAir4,2": {
+    "model": "MacBookAir4,2",
+    "name": "MacBook Air (13-inch, Mid 2011)",
+    "image": "Mac/MacBookAir4,2.png"
+  },
+  "MacBookAir5,1": {
+    "model": "MacBookAir5,1",
+    "name": "MacBook Air (11-inch, Mid 2012)",
+    "image": "Mac/MacBookAir5,1.png"
+  },
+  "MacBookAir5,2": {
+    "model": "MacBookAir5,2",
+    "name": "MacBook Air (13-inch, Mid 2012)",
+    "image": "Mac/MacBookAir5,2.png"
+  },
+  "MacBookAir6,1": {
+    "model": "MacBookAir6,1",
+    "name": "MacBook Air (11-inch, Mid 2013 / Early 2014)",
+    "image": "Mac/MacBookAir6,1.png"
+  },
+  "MacBookAir6,2": {
+    "model": "MacBookAir6,2",
+    "name": "MacBook Air (13-inch, Mid 2013 / Early 2014)",
+    "image": "Mac/MacBookAir6,2.png"
+  },
+  "MacBookAir7,1": {
+    "model": "MacBookAir7,1",
+    "name": "MacBook Air (11-inch, Early 2015)",
+    "image": "Mac/MacBookAir7,1.png"
+  },
+  "MacBookAir7,2": {
+    "model": "MacBookAir7,2",
+    "name": "MacBook Air (13-inch, Early 2015 / 2017)",
+    "image": "Mac/MacBookAir7,2.png"
+  },
+  "MacBookAir8,1": {
+    "model": "MacBookAir8,1",
+    "name": "MacBook Air (Retina, 13-inch, 2018)",
+    "image": "Mac/MacBookAir8,1.png"
+  },
+  "MacBookAir8,2": {
+    "model": "MacBookAir8,2",
+    "name": "MacBook Air (Retina, 13-inch, 2019)",
+    "image": "Mac/MacBookAir8,2.png"
+  },
+  "MacBookAir9,1": {
+    "model": "MacBookAir9,1",
+    "name": "MacBook Air (Retina, 13-inch, 2020)",
+    "image": "Mac/MacBookAir9,1.png"
   },
   "MacBookAir10,1": {
     "model": "MacBookAir10,1",
-    "name": "MacBook Air (M1, Late 2020)",
+    "name": "MacBook Air (M1, 2020)",
     "image": "Mac/MacBookAir10,1.png"
+  },
+  "MacBookPro4,1": {
+    "model": "MacBookPro4,1",
+    "name": "MacBook Pro (Early 2008)",
+    "image": "Mac/MacBookPro4,1.png"
+  },
+  "MacBookPro5,1": {
+    "model": "MacBookPro5,1",
+    "name": "MacBook Pro (15-inch, Late 2008)",
+    "image": "Mac/MacBookPro5,1.png"
+  },
+  "MacBookPro5,2": {
+    "model": "MacBookPro5,2",
+    "name": "MacBook Pro (17-inch, Early 2009 / Mid 2009)",
+    "image": "Mac/MacBookPro5,2.png"
+  },
+  "MacBookPro5,3": {
+    "model": "MacBookPro5,3",
+    "name": "MacBook Pro (15-inch, Mid 2009)",
+    "image": "Mac/MacBookPro5,3.png"
+  },
+  "MacBookPro5,5": {
+    "model": "MacBookPro5,5",
+    "name": "MacBook Pro (13-inch, Mid 2009)",
+    "image": "Mac/MacBookPro5,5.png"
+  },
+  "MacBookPro6,1": {
+    "model": "MacBookPro6,1",
+    "name": "MacBook Pro (17-inch, Mid 2010)",
+    "image": "Mac/MacBookPro6,1.png"
+  },
+  "MacBookPro6,2": {
+    "model": "MacBookPro6,2",
+    "name": "MacBook Pro (15-inch, Mid 2010)",
+    "image": "Mac/MacBookPro6,2.png"
+  },
+  "MacBookPro7,1": {
+    "model": "MacBookPro7,1",
+    "name": "MacBook Pro (13-inch, Mid 2010)",
+    "image": "Mac/MacBookPro7,1.png"
+  },
+  "MacBookPro8,1": {
+    "model": "MacBookPro8,1",
+    "name": "MacBook Pro (13-inch, Early 2011 / Late 2011)",
+    "image": "Mac/MacBookPro8,1.png"
+  },
+  "MacBookPro8,2": {
+    "model": "MacBookPro8,2",
+    "name": "MacBook Pro (15-inch, Early 2011 / Late 2011)",
+    "image": "Mac/MacBookPro8,2.png"
+  },
+  "MacBookPro8,3": {
+    "model": "MacBookPro8,3",
+    "name": "MacBook Pro (17-inch, Early 2011 / Late 2011)",
+    "image": "Mac/MacBookPro8,3.png"
+  },
+  "MacBookPro9,1": {
+    "model": "MacBookPro9,1",
+    "name": "MacBook Pro (15-inch, Mid 2012)",
+    "image": "Mac/MacBookPro9,1.png"
+  },
+  "MacBookPro9,2": {
+    "model": "MacBookPro9,2",
+    "name": "MacBook Pro (13-inch, Mid 2012)",
+    "image": "Mac/MacBookPro9,2.png"
+  },
+  "MacBookPro10,1": {
+    "model": "MacBookPro10,1",
+    "name": "MacBook Pro (Retina, 15-inch, Mid 2012 / Early 2013)",
+    "image": "Mac/MacBookPro10,1.png"
+  },
+  "MacBookPro10,2": {
+    "model": "MacBookPro10,2",
+    "name": "MacBook Pro (Retina, 13-inch, Late 2012 / Early 2013)",
+    "image": "Mac/MacBookPro10,2.png"
+  },
+  "MacBookPro11,1": {
+    "model": "MacBookPro11,1",
+    "name": "MacBook Pro (Retina, 13-inch, Late 2013 / Mid 2014)",
+    "image": "Mac/MacBookPro11,1.png"
+  },
+  "MacBookPro11,2": {
+    "model": "MacBookPro11,2",
+    "name": "MacBook Pro (Retina, 15-inch, Late 2013 / Mid 2014)",
+    "image": "Mac/MacBookPro11,2.png"
+  },
+  "MacBookPro11,3": {
+    "model": "MacBookPro11,3",
+    "name": "MacBook Pro (Retina, 15-inch, Late 2013 / Mid 2014)",
+    "image": "Mac/MacBookPro11,3.png"
+  },
+  "MacBookPro11,4": {
+    "model": "MacBookPro11,4",
+    "name": "MacBook Pro (Retina, 15-inch, Mid 2015)",
+    "image": "Mac/MacBookPro11,4.png"
+  },
+  "MacBookPro11,5": {
+    "model": "MacBookPro11,5",
+    "name": "MacBook Pro (Retina, 15-inch, Mid 2015)",
+    "image": "Mac/MacBookPro11,5.png"
+  },
+  "MacBookPro12,1": {
+    "model": "MacBookPro12,1",
+    "name": "MacBook Pro (Retina, 13-inch, Early 2015)",
+    "image": "Mac/MacBookPro12,1.png"
+  },
+  "MacBookPro13,1": {
+    "model": "MacBookPro13,1",
+    "name": "MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro13,1.png"
+  },
+  "MacBookPro13,2": {
+    "model": "MacBookPro13,2",
+    "name": "MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro13,2.png"
+  },
+  "MacBookPro13,3": {
+    "model": "MacBookPro13,3",
+    "name": "MacBook Pro (15-inch, 2016)",
+    "image": "Mac/MacBookPro13,3.png"
+  },
+  "MacBookPro14,1": {
+    "model": "MacBookPro14,1",
+    "name": "MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro14,1.png"
+  },
+  "MacBookPro14,2": {
+    "model": "MacBookPro14,2",
+    "name": "MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro14,2.png"
+  },
+  "MacBookPro14,3": {
+    "model": "MacBookPro14,3",
+    "name": "MacBook Pro (15-inch, 2017)",
+    "image": "Mac/MacBookPro14,3.png"
+  },
+  "MacBookPro15,1": {
+    "model": "MacBookPro15,1",
+    "name": "MacBook Pro (15-inch, 2018 / 2019)",
+    "image": "Mac/MacBookPro15,1.png"
+  },
+  "MacBookPro15,2": {
+    "model": "MacBookPro15,2",
+    "name": "MacBook Pro (13-inch, 2018 / 2019, Four Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro15,2.png"
+  },
+  "MacBookPro15,3": {
+    "model": "MacBookPro15,3",
+    "name": "MacBook Pro (15-inch, 2019)",
+    "image": "Mac/MacBookPro15,3.png"
+  },
+  "MacBookPro15,4": {
+    "model": "MacBookPro15,4",
+    "name": "MacBook Pro (13-inch, 2019, Two Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro15,4.png"
+  },
+  "MacBookPro16,1": {
+    "model": "MacBookPro16,1",
+    "name": "MacBook Pro (16-inch, 2019)",
+    "image": "Mac/MacBookPro16,1.png"
+  },
+  "MacBookPro16,2": {
+    "model": "MacBookPro16,2",
+    "name": "MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro16,2.png"
+  },
+  "MacBookPro16,3": {
+    "model": "MacBookPro16,3",
+    "name": "MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",
+    "image": "Mac/MacBookPro16,3.png"
+  },
+  "MacBookPro16,4": {
+    "model": "MacBookPro16,4",
+    "name": "MacBook Pro (16-inch, 2019)",
+    "image": "Mac/MacBookPro16,4.png"
   },
   "MacBookPro17,1": {
     "model": "MacBookPro17,1",
-    "name": "MacBook Pro (M1, Late 2020)",
+    "name": "MacBook Pro (13-inch, M1, 2020)",
     "image": "Mac/MacBookPro17,1.png"
   },
-  "AppleTV14,1": {
-    "model": "AppleTV14,1",
-    "name": "Apple TV 4K (3rd generation)",
-    "image": "AppleTV/AppleTV14,1.png"
+  "MacBookPro18,1": {
+    "model": "MacBookPro18,1",
+    "name": "MacBook Pro (16-inch, 2021)",
+    "image": "Mac/MacBookPro18,1.png"
+  },
+  "MacBookPro18,2": {
+    "model": "MacBookPro18,2",
+    "name": "MacBook Pro (16-inch, 2021)",
+    "image": "Mac/MacBookPro18,2.png"
+  },
+  "MacBookPro18,3": {
+    "model": "MacBookPro18,3",
+    "name": "MacBook Pro (14-inch, 2021)",
+    "image": "Mac/MacBookPro18,3.png"
+  },
+  "MacBookPro18,4": {
+    "model": "MacBookPro18,4",
+    "name": "MacBook Pro (14-inch, 2021)",
+    "image": "Mac/MacBookPro18,4.png"
+  },
+  "Macmini3,1": {
+    "model": "Macmini3,1",
+    "name": "Mac mini (Early 2009 / Late 2009)",
+    "image": "Mac/Macmini3,1.png"
+  },
+  "Macmini4,1": {
+    "model": "Macmini4,1",
+    "name": "Mac mini (Mid 2010)",
+    "image": "Mac/Macmini4,1.png"
+  },
+  "Macmini5,1": {
+    "model": "Macmini5,1",
+    "name": "Mac mini (Mid 2011)",
+    "image": "Mac/Macmini5,1.png"
+  },
+  "Macmini5,2": {
+    "model": "Macmini5,2",
+    "name": "Mac mini (Mid 2011)",
+    "image": "Mac/Macmini5,2.png"
+  },
+  "Macmini6,1": {
+    "model": "Macmini6,1",
+    "name": "Mac mini (Late 2012)",
+    "image": "Mac/Macmini6,1.png"
+  },
+  "Macmini6,2": {
+    "model": "Macmini6,2",
+    "name": "Mac mini (Late 2012)",
+    "image": "Mac/Macmini6,2.png"
+  },
+  "Macmini7,1": {
+    "model": "Macmini7,1",
+    "name": "Mac mini (Late 2014)",
+    "image": "Mac/Macmini7,1.png"
+  },
+  "Macmini8,1": {
+    "model": "Macmini8,1",
+    "name": "Mac mini (2018)",
+    "image": "Mac/Macmini8,1.png"
+  },
+  "Macmini9,1": {
+    "model": "Macmini9,1",
+    "name": "Mac mini (M1, 2020)",
+    "image": "Mac/Macmini9,1.png"
+  },
+  "MacPro4,1": {
+    "model": "MacPro4,1",
+    "name": "Mac Pro (Early 2009)",
+    "image": "Mac/MacPro4,1.png"
+  },
+  "MacPro5,1": {
+    "model": "MacPro5,1",
+    "name": "Mac Pro (Mid 2010 / Mid 2012)",
+    "image": "Mac/MacPro5,1.png"
+  },
+  "MacPro6,1": {
+    "model": "MacPro6,1",
+    "name": "Mac Pro (Late 2013)",
+    "image": "Mac/MacPro6,1.png"
+  },
+  "MacPro7,1": {
+    "model": "MacPro7,1",
+    "name": "Mac Pro (2019)",
+    "image": "Mac/MacPro7,1.png"
+  },
+  "AppleTV1,1": {
+    "model": "AppleTV1,1",
+    "name": "Apple TV (1st generation)",
+    "image": "AppleTV/AppleTV1,1.png"
+  },
+  "AppleTV2,1": {
+    "model": "AppleTV2,1",
+    "name": "Apple TV (2nd generation)",
+    "image": "AppleTV/AppleTV2,1.png"
+  },
+  "AppleTV3,1": {
+    "model": "AppleTV3,1",
+    "name": "Apple TV (3rd generation)",
+    "image": "AppleTV/AppleTV3,1.png"
+  },
+  "AppleTV3,2": {
+    "model": "AppleTV3,2",
+    "name": "Apple TV (3rd generation)",
+    "image": "AppleTV/AppleTV3,2.png"
+  },
+  "AppleTV5,3": {
+    "model": "AppleTV5,3",
+    "name": "Apple TV HD",
+    "image": "AppleTV/AppleTV5,3.png"
+  },
+  "AppleTV6,2": {
+    "model": "AppleTV6,2",
+    "name": "Apple TV 4K (1st generation)",
+    "image": "AppleTV/AppleTV6,2.png"
   },
   "AppleTV11,1": {
     "model": "AppleTV11,1",
     "name": "Apple TV 4K (2nd generation)",
     "image": "AppleTV/AppleTV11,1.png"
   },
-  "AppleTV6,2": {
-    "model": "AppleTV6,2",
-    "name": "Apple TV 4K",
-    "image": "AppleTV/AppleTV6,2.png"
-  },
-  "AppleTV5,3": {
-    "model": "AppleTV5,3",
-    "name": "Apple TV 4 (2015)",
-    "image": "AppleTV/AppleTV5,3.png"
-  },
-  "AppleTV3,2": {
-    "model": "AppleTV3,2",
-    "name": "Apple TV 3 (2013)",
-    "image": "AppleTV/AppleTV3,2.png"
-  },
-  "AppleTV3,1": {
-    "model": "AppleTV3,1",
-    "name": "Apple TV 3",
-    "image": "AppleTV/AppleTV3,1.png"
-  },
-  "AppleTV2,1": {
-    "model": "AppleTV2,1",
-    "name": "Apple TV 2G",
-    "image": "AppleTV/AppleTV2,1.png"
+  "AppleTV14,1": {
+    "model": "AppleTV14,1",
+    "name": "Apple TV 4K (3rd generation)",
+    "image": "AppleTV/AppleTV14,1.png"
   }
 }
