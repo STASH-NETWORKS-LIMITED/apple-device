@@ -289,6 +289,26 @@
     "name": "iPhone 16e",
     "image": "iPhone/iPhone17,5.png"
   },
+  "iPhone18,1": {
+    "model": "iPhone18,1",
+    "name": "iPhone 17 Pro",
+    "image": "iPhone/iPhone18,1.png"
+  },
+  "iPhone18,2": {
+    "model": "iPhone18,2",
+    "name": "iPhone 17 Pro Max",
+    "image": "iPhone/iPhone18,2.png"
+  },
+  "iPhone18,3": {
+    "model": "iPhone18,3",
+    "name": "iPhone 17",
+    "image": "iPhone/iPhone18,3.png"
+  },
+  "iPhone18,4": {
+    "model": "iPhone18,4",
+    "name": "iPhone Air",
+    "image": "iPhone/iPhone18,4.png"
+  },
   "iPad1,1": {
     "model": "iPad1,1",
     "name": "iPad",
