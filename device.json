@@ -799,6 +799,26 @@
     "name": "iPad Pro 13-inch (M4)",
     "image": "iPad/iPad16,6.png"
   },
+  "iPad17,1": {
+    "model": "iPad17,1",
+    "name": "iPad Pro 11-inch (M5)",
+    "image": "iPad/iPad17,1.png"
+  },
+  "iPad17,2": {
+    "model": "iPad17,2",
+    "name": "iPad Pro 11-inch (M5)",
+    "image": "iPad/iPad17,2.png"
+  },
+  "iPad17,3": {
+    "model": "iPad17,3",
+    "name": "iPad Pro 13-inch (M5)",
+    "image": "iPad/iPad17,3.png"
+  },
+  "iPad17,4": {
+    "model": "iPad17,4",
+    "name": "iPad Pro 13-inch (M5)",
+    "image": "iPad/iPad17,4.png"
+  },
   "iPod1,1": {
     "model": "iPod1,1",
     "name": "iPod touch",
@@ -836,12 +856,12 @@
   },
   "iMac9,1": {
     "model": "iMac9,1",
-    "name": "iMac (Early 2009)",
+    "name": "iMac (20-inch / 24-inch, Early 2009)",
     "image": "Mac/iMac9,1.png"
   },
   "iMac10,1": {
     "model": "iMac10,1",
-    "name": "iMac (Late 2009)",
+    "name": "iMac (21.5-inch / 27-inch, Late 2009)",
     "image": "Mac/iMac10,1.png"
   },
   "iMac11,2": {
@@ -1149,6 +1169,11 @@
     "name": "MacBook Air (15-inch, M4, 2025)",
     "image": "Mac/Mac16,13.png"
   },
+  "Mac17,2": {
+    "model": "Mac17,2",
+    "name": "MacBook Pro (14-inch, M5)",
+    "image": "Mac/Mac17,2.png"
+  },
   "MacBook5,2": {
     "model": "MacBook5,2",
     "name": "MacBook (13-inch, Early 2009 / Mid 2009)",
@@ -1256,7 +1281,7 @@
   },
   "MacBookPro4,1": {
     "model": "MacBookPro4,1",
-    "name": "MacBook Pro (Early 2008)",
+    "name": "MacBook Pro (15-inch / 17-inch, Early 2008)",
     "image": "Mac/MacBookPro4,1.png"
   },
   "MacBookPro5,1": {
